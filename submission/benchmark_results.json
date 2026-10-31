@@ -1,0 +1,39 @@
+{
+  "summary": {
+    "RuleTaker": {
+      "count": 1000,
+      "correct": 1000,
+      "accuracy": 100.0,
+      "total_time_s": 0.3004321999997046,
+      "avg_time_ms": 0.3004321999997046
+    },
+    "CounterBench-Alpha": {
+      "count": 1000,
+      "correct": 925,
+      "accuracy": 92.5,
+      "total_time_s": 0.14539030000014463,
+      "avg_time_ms": 0.14539030000014463
+    },
+    "CounterBench-Backdoor": {
+      "count": 200,
+      "correct": 130,
+      "accuracy": 65.0,
+      "total_time_s": 0.027391699999498087,
+      "avg_time_ms": 0.13695849999749043
+    },
+    "FOLIO": {
+      "count": 204,
+      "correct": 148,
+      "accuracy": 72.54901960784314,
+      "total_time_s": 0.41614839999965625,
+      "avg_time_ms": 2.039943137253217
+    }
+  },
+  "overall": {
+    "total_queries": 2404,
+    "total_correct": 2203,
+    "overall_accuracy": 91.63893510815308,
+    "total_time_seconds": 0.8893625999990036,
+    "avg_latency_ms": 0.3699511647250431
+  }
+}

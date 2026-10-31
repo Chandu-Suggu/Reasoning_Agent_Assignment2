@@ -1,0 +1,3402 @@
+[
+    {
+        "model_id": 0,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blaf has a direct effect on Ziklo, Ziklo or Blaf has a direct effect on Trune, Trune has a direct effect on Vork, and Vork has a direct effect on Lumbo. Blaf~ Bern(0.2). We observed Trune",
+        "variable_mapping": {
+            "X": "Ziklo",
+            "V1": "Blaf",
+            "V2": "Trune",
+            "V3": "Vork",
+            "V4": "Sline",
+            "V5": "Frim",
+            "V6": "Qado",
+            "V7": "Jurf",
+            "V8": "Drig",
+            "Y": "Lumbo"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 1,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Razz has a direct effect on Glent, Glent or Razz has a direct effect on Pex, Pex has a direct effect on Zurn, and Zurn has a direct effect on Zlim. Razz~ Bern(0.2). We observed Pex",
+        "variable_mapping": {
+            "X": "Glent",
+            "V1": "Razz",
+            "V2": "Pex",
+            "V3": "Zurn",
+            "V4": "Melf",
+            "V5": "Crip",
+            "V6": "Flen",
+            "V7": "Tork",
+            "V8": "Bilo",
+            "Y": "Zlim"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 2,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Vank has a direct effect on Praf, Praf or Vank has a direct effect on Scud, Scud has a direct effect on Wrenk, and Wrenk has a direct effect on Klep. Vank~ Bern(0.2). We observed Scud",
+        "variable_mapping": {
+            "X": "Praf",
+            "V1": "Vank",
+            "V2": "Scud",
+            "V3": "Wrenk",
+            "V4": "Yobb",
+            "V5": "Glim",
+            "V6": "Spog",
+            "V7": "Torb",
+            "V8": "Frun",
+            "Y": "Klep"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 3,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blorn has a direct effect on Fizo, Fizo or Blorn has a direct effect on Plim, Plim has a direct effect on Quaz, and Quaz has a direct effect on Jext. Blorn~ Bern(0.2). We observed Plim",
+        "variable_mapping": {
+            "X": "Fizo",
+            "V1": "Blorn",
+            "V2": "Plim",
+            "V3": "Quaz",
+            "V4": "Skul",
+            "V5": "Triv",
+            "V6": "Yex",
+            "V7": "Rild",
+            "V8": "Vurn",
+            "Y": "Jext"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 4,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Splee has a direct effect on Nuv, Nuv or Splee has a direct effect on Blen, Blen has a direct effect on Druk, and Druk has a direct effect on Wrox. Splee~ Bern(0.2). We observed Blen",
+        "variable_mapping": {
+            "X": "Nuv",
+            "V1": "Splee",
+            "V2": "Blen",
+            "V3": "Druk",
+            "V4": "Plog",
+            "V5": "Skrim",
+            "V6": "Zimb",
+            "V7": "Yurd",
+            "V8": "Grif",
+            "Y": "Wrox"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 5,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blaf has a direct effect on Ziklo, Ziklo and Blaf has a direct effect on Trune, Trune has a direct effect on Vork, and Vork has a direct effect on Lumbo. Blaf~ Bern(0.2). We observed Trune",
+        "variable_mapping": {
+            "X": "Ziklo",
+            "V1": "Blaf",
+            "V2": "Trune",
+            "V3": "Vork",
+            "V4": "Sline",
+            "V5": "Frim",
+            "V6": "Qado",
+            "V7": "Jurf",
+            "V8": "Drig",
+            "Y": "Lumbo"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 6,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Razz has a direct effect on Glent, Glent and Razz has a direct effect on Pex, Pex has a direct effect on Zurn, and Zurn has a direct effect on Zlim. Razz~ Bern(0.2). We observed Pex",
+        "variable_mapping": {
+            "X": "Glent",
+            "V1": "Razz",
+            "V2": "Pex",
+            "V3": "Zurn",
+            "V4": "Melf",
+            "V5": "Crip",
+            "V6": "Flen",
+            "V7": "Tork",
+            "V8": "Bilo",
+            "Y": "Zlim"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 7,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Vank has a direct effect on Praf, Praf and Vank has a direct effect on Scud, Scud has a direct effect on Wrenk, and Wrenk has a direct effect on Klep. Vank~ Bern(0.2). We observed Scud",
+        "variable_mapping": {
+            "X": "Praf",
+            "V1": "Vank",
+            "V2": "Scud",
+            "V3": "Wrenk",
+            "V4": "Yobb",
+            "V5": "Glim",
+            "V6": "Spog",
+            "V7": "Torb",
+            "V8": "Frun",
+            "Y": "Klep"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 8,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blorn has a direct effect on Fizo, Fizo and Blorn has a direct effect on Plim, Plim has a direct effect on Quaz, and Quaz has a direct effect on Jext. Blorn~ Bern(0.2). We observed Plim",
+        "variable_mapping": {
+            "X": "Fizo",
+            "V1": "Blorn",
+            "V2": "Plim",
+            "V3": "Quaz",
+            "V4": "Skul",
+            "V5": "Triv",
+            "V6": "Yex",
+            "V7": "Rild",
+            "V8": "Vurn",
+            "Y": "Jext"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 9,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Splee has a direct effect on Nuv, Nuv and Splee has a direct effect on Blen, Blen has a direct effect on Druk, and Druk has a direct effect on Wrox. Splee~ Bern(0.2). We observed Blen",
+        "variable_mapping": {
+            "X": "Nuv",
+            "V1": "Splee",
+            "V2": "Blen",
+            "V3": "Druk",
+            "V4": "Plog",
+            "V5": "Skrim",
+            "V6": "Zimb",
+            "V7": "Yurd",
+            "V8": "Grif",
+            "Y": "Wrox"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 10,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blaf has a direct effect on not Ziklo, Ziklo has a direct effect on Trune, Blaf and Ziklo have direct effects on Vork, and Vork has a direct effect on Lumbo. Blaf~ Bern(0.6). ",
+        "variable_mapping": {
+            "X": "Ziklo",
+            "V1": "Blaf",
+            "V2": "Trune",
+            "V3": "Vork",
+            "V4": "Sline",
+            "V5": "Frim",
+            "V6": "Qado",
+            "V7": "Jurf",
+            "V8": "Drig",
+            "Y": "Lumbo"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 11,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Razz has a direct effect on not Glent, Glent has a direct effect on Pex, Razz and Glent have direct effects on Zurn, and Zurn has a direct effect on Zlim. Razz~ Bern(0.6). ",
+        "variable_mapping": {
+            "X": "Glent",
+            "V1": "Razz",
+            "V2": "Pex",
+            "V3": "Zurn",
+            "V4": "Melf",
+            "V5": "Crip",
+            "V6": "Flen",
+            "V7": "Tork",
+            "V8": "Bilo",
+            "Y": "Zlim"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 12,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Vank has a direct effect on not Praf, Praf has a direct effect on Scud, Vank and Praf have direct effects on Wrenk, and Wrenk has a direct effect on Klep. Vank~ Bern(0.6). ",
+        "variable_mapping": {
+            "X": "Praf",
+            "V1": "Vank",
+            "V2": "Scud",
+            "V3": "Wrenk",
+            "V4": "Yobb",
+            "V5": "Glim",
+            "V6": "Spog",
+            "V7": "Torb",
+            "V8": "Frun",
+            "Y": "Klep"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 13,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blorn has a direct effect on not Fizo, Fizo has a direct effect on Plim, Blorn and Fizo have direct effects on Quaz, and Quaz has a direct effect on Jext. Blorn~ Bern(0.6). ",
+        "variable_mapping": {
+            "X": "Fizo",
+            "V1": "Blorn",
+            "V2": "Plim",
+            "V3": "Quaz",
+            "V4": "Skul",
+            "V5": "Triv",
+            "V6": "Yex",
+            "V7": "Rild",
+            "V8": "Vurn",
+            "Y": "Jext"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 14,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Splee has a direct effect on not Nuv, Nuv has a direct effect on Blen, Splee and Nuv have direct effects on Druk, and Druk has a direct effect on Wrox. Splee~ Bern(0.6). ",
+        "variable_mapping": {
+            "X": "Nuv",
+            "V1": "Splee",
+            "V2": "Blen",
+            "V3": "Druk",
+            "V4": "Plog",
+            "V5": "Skrim",
+            "V6": "Zimb",
+            "V7": "Yurd",
+            "V8": "Grif",
+            "Y": "Wrox"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 15,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blaf has a direct effect on not Ziklo, Ziklo has a direct effect on Trune, Blaf or Ziklo have direct effects on Vork, and Vork has a direct effect on Lumbo. Blaf~ Bern(0.6). We observed Trune occur",
+        "variable_mapping": {
+            "X": "Ziklo",
+            "V1": "Blaf",
+            "V2": "Trune",
+            "V3": "Vork",
+            "V4": "Sline",
+            "V5": "Frim",
+            "V6": "Qado",
+            "V7": "Jurf",
+            "V8": "Drig",
+            "Y": "Lumbo"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 16,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Razz has a direct effect on not Glent, Glent has a direct effect on Pex, Razz or Glent have direct effects on Zurn, and Zurn has a direct effect on Zlim. Razz~ Bern(0.6). We observed Pex occur",
+        "variable_mapping": {
+            "X": "Glent",
+            "V1": "Razz",
+            "V2": "Pex",
+            "V3": "Zurn",
+            "V4": "Melf",
+            "V5": "Crip",
+            "V6": "Flen",
+            "V7": "Tork",
+            "V8": "Bilo",
+            "Y": "Zlim"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 17,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Vank has a direct effect on not Praf, Praf has a direct effect on Scud, Vank or Praf have direct effects on Wrenk, and Wrenk has a direct effect on Klep. Vank~ Bern(0.6). We observed Scud occur",
+        "variable_mapping": {
+            "X": "Praf",
+            "V1": "Vank",
+            "V2": "Scud",
+            "V3": "Wrenk",
+            "V4": "Yobb",
+            "V5": "Glim",
+            "V6": "Spog",
+            "V7": "Torb",
+            "V8": "Frun",
+            "Y": "Klep"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 18,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blorn has a direct effect on not Fizo, Fizo has a direct effect on Plim, Blorn or Fizo have direct effects on Quaz, and Quaz has a direct effect on Jext. Blorn~ Bern(0.6). We observed Plim occur",
+        "variable_mapping": {
+            "X": "Fizo",
+            "V1": "Blorn",
+            "V2": "Plim",
+            "V3": "Quaz",
+            "V4": "Skul",
+            "V5": "Triv",
+            "V6": "Yex",
+            "V7": "Rild",
+            "V8": "Vurn",
+            "Y": "Jext"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 19,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Splee has a direct effect on not Nuv, Nuv has a direct effect on Blen, Splee or Nuv have direct effects on Druk, and Druk has a direct effect on Wrox. Splee~ Bern(0.6). We observed Blen occur",
+        "variable_mapping": {
+            "X": "Nuv",
+            "V1": "Splee",
+            "V2": "Blen",
+            "V3": "Druk",
+            "V4": "Plog",
+            "V5": "Skrim",
+            "V6": "Zimb",
+            "V7": "Yurd",
+            "V8": "Grif",
+            "Y": "Wrox"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 20,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Trune has a direct effect on Ziklo, Ziklo has a direct effect on Blaf, Blaf and Trune have direct effects on Vork, and Vork has a direct effect on Lumbo. Trune~Bern(0.7). We observed Blaf occur.",
+        "variable_mapping": {
+            "X": "Ziklo",
+            "V1": "Blaf",
+            "V2": "Trune",
+            "V3": "Vork",
+            "V4": "Sline",
+            "V5": "Frim",
+            "V6": "Qado",
+            "V7": "Jurf",
+            "V8": "Drig",
+            "Y": "Lumbo"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 21,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Pex has a direct effect on Glent, Glent has a direct effect on Razz, Razz and Pex have direct effects on Zurn, and Zurn has a direct effect on Zlim. Pex~Bern(0.7). We observed Razz occur.",
+        "variable_mapping": {
+            "X": "Glent",
+            "V1": "Razz",
+            "V2": "Pex",
+            "V3": "Zurn",
+            "V4": "Melf",
+            "V5": "Crip",
+            "V6": "Flen",
+            "V7": "Tork",
+            "V8": "Bilo",
+            "Y": "Zlim"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 22,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Scud has a direct effect on Praf, Praf has a direct effect on Vank, Vank and Scud have direct effects on Wrenk, and Wrenk has a direct effect on Klep. Scud~Bern(0.7). We observed Vank occur.",
+        "variable_mapping": {
+            "X": "Praf",
+            "V1": "Vank",
+            "V2": "Scud",
+            "V3": "Wrenk",
+            "V4": "Yobb",
+            "V5": "Glim",
+            "V6": "Spog",
+            "V7": "Torb",
+            "V8": "Frun",
+            "Y": "Klep"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 23,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Plim has a direct effect on Fizo, Fizo has a direct effect on Blorn, Blorn and Plim have direct effects on Quaz, and Quaz has a direct effect on Jext. Plim~Bern(0.7). We observed Blorn occur.",
+        "variable_mapping": {
+            "X": "Fizo",
+            "V1": "Blorn",
+            "V2": "Plim",
+            "V3": "Quaz",
+            "V4": "Skul",
+            "V5": "Triv",
+            "V6": "Yex",
+            "V7": "Rild",
+            "V8": "Vurn",
+            "Y": "Jext"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 24,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blen has a direct effect on Nuv, Nuv has a direct effect on Splee, Splee and Blen have direct effects on Druk, and Druk has a direct effect on Wrox. Blen~Bern(0.7). We observed Splee occur.",
+        "variable_mapping": {
+            "X": "Nuv",
+            "V1": "Splee",
+            "V2": "Blen",
+            "V3": "Druk",
+            "V4": "Plog",
+            "V5": "Skrim",
+            "V6": "Zimb",
+            "V7": "Yurd",
+            "V8": "Grif",
+            "Y": "Wrox"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 25,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Trune has a direct effect on Ziklo, Ziklo has a direct effect on Blaf, Blaf or Trune cause Vork, and Vork has a direct effect on Lumbo. Trune~Bern(0.7). We observed Blaf occur.",
+        "variable_mapping": {
+            "X": "Ziklo",
+            "V1": "Blaf",
+            "V2": "Trune",
+            "V3": "Vork",
+            "V4": "Sline",
+            "V5": "Frim",
+            "V6": "Qado",
+            "V7": "Jurf",
+            "V8": "Drig",
+            "Y": "Lumbo"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 26,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Pex has a direct effect on Glent, Glent has a direct effect on Razz, Razz or Pex cause Zurn, and Zurn has a direct effect on Zlim. Pex~Bern(0.7). We observed Razz occur.",
+        "variable_mapping": {
+            "X": "Glent",
+            "V1": "Razz",
+            "V2": "Pex",
+            "V3": "Zurn",
+            "V4": "Melf",
+            "V5": "Crip",
+            "V6": "Flen",
+            "V7": "Tork",
+            "V8": "Bilo",
+            "Y": "Zlim"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 27,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Scud has a direct effect on Praf, Praf has a direct effect on Vank, Vank or Scud cause Wrenk, and Wrenk has a direct effect on Klep. Scud~Bern(0.7). We observed Vank occur.",
+        "variable_mapping": {
+            "X": "Praf",
+            "V1": "Vank",
+            "V2": "Scud",
+            "V3": "Wrenk",
+            "V4": "Yobb",
+            "V5": "Glim",
+            "V6": "Spog",
+            "V7": "Torb",
+            "V8": "Frun",
+            "Y": "Klep"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 28,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Plim has a direct effect on Fizo, Fizo has a direct effect on Blorn, Blorn or Plim cause Quaz, and Quaz has a direct effect on Jext. Plim~Bern(0.7). We observed Blorn occur.",
+        "variable_mapping": {
+            "X": "Fizo",
+            "V1": "Blorn",
+            "V2": "Plim",
+            "V3": "Quaz",
+            "V4": "Skul",
+            "V5": "Triv",
+            "V6": "Yex",
+            "V7": "Rild",
+            "V8": "Vurn",
+            "Y": "Jext"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 29,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blen has a direct effect on Nuv, Nuv has a direct effect on Splee, Splee or Blen cause Druk, and Druk has a direct effect on Wrox. Blen~Bern(0.7). We observed Splee occur.",
+        "variable_mapping": {
+            "X": "Nuv",
+            "V1": "Splee",
+            "V2": "Blen",
+            "V3": "Druk",
+            "V4": "Plog",
+            "V5": "Skrim",
+            "V6": "Zimb",
+            "V7": "Yurd",
+            "V8": "Grif",
+            "Y": "Wrox"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 30,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blaf has a direct effect on Ziklo, Ziklo or Blaf have direct effects on Trune, Trune has a direct effect on Vork, and Vork has a direct effect on Lumbo. Blaf~Bern(0.6). We observed Trune occurs",
+        "variable_mapping": {
+            "X": "Ziklo",
+            "V1": "Blaf",
+            "V2": "Trune",
+            "V3": "Vork",
+            "V4": "Sline",
+            "V5": "Frim",
+            "V6": "Qado",
+            "V7": "Jurf",
+            "V8": "Drig",
+            "Y": "Lumbo"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 31,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Razz has a direct effect on Glent, Glent or Razz have direct effects on Pex, Pex has a direct effect on Zurn, and Zurn has a direct effect on Zlim. Razz~Bern(0.6). We observed Pex occurs",
+        "variable_mapping": {
+            "X": "Glent",
+            "V1": "Razz",
+            "V2": "Pex",
+            "V3": "Zurn",
+            "V4": "Melf",
+            "V5": "Crip",
+            "V6": "Flen",
+            "V7": "Tork",
+            "V8": "Bilo",
+            "Y": "Zlim"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 32,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Vank has a direct effect on Praf, Praf or Vank have direct effects on Scud, Scud has a direct effect on Wrenk, and Wrenk has a direct effect on Klep. Vank~Bern(0.6). We observed Scud occurs",
+        "variable_mapping": {
+            "X": "Praf",
+            "V1": "Vank",
+            "V2": "Scud",
+            "V3": "Wrenk",
+            "V4": "Yobb",
+            "V5": "Glim",
+            "V6": "Spog",
+            "V7": "Torb",
+            "V8": "Frun",
+            "Y": "Klep"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 33,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blorn has a direct effect on Fizo, Fizo or Blorn have direct effects on Plim, Plim has a direct effect on Quaz, and Quaz has a direct effect on Jext. Blorn~Bern(0.6). We observed Plim occurs",
+        "variable_mapping": {
+            "X": "Fizo",
+            "V1": "Blorn",
+            "V2": "Plim",
+            "V3": "Quaz",
+            "V4": "Skul",
+            "V5": "Triv",
+            "V6": "Yex",
+            "V7": "Rild",
+            "V8": "Vurn",
+            "Y": "Jext"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 34,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Splee has a direct effect on Nuv, Nuv or Splee have direct effects on Blen, Blen has a direct effect on Druk, and Druk has a direct effect on Wrox. Splee~Bern(0.6). We observed Blen occurs",
+        "variable_mapping": {
+            "X": "Nuv",
+            "V1": "Splee",
+            "V2": "Blen",
+            "V3": "Druk",
+            "V4": "Plog",
+            "V5": "Skrim",
+            "V6": "Zimb",
+            "V7": "Yurd",
+            "V8": "Grif",
+            "Y": "Wrox"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 35,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Vork has a direct effect on Ziklo, Ziklo has a direct effect on not Blaf, Blaf has a direct effect on Trune, Trune and Vork has a direct effect on Lumbo. Blaf~Bern(0.6). We observed Trune not occurs",
+        "variable_mapping": {
+            "X": "Ziklo",
+            "V1": "Blaf",
+            "V2": "Trune",
+            "V3": "Vork",
+            "V4": "Sline",
+            "V5": "Frim",
+            "V6": "Qado",
+            "V7": "Jurf",
+            "V8": "Drig",
+            "Y": "Lumbo"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 36,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Zurn has a direct effect on Glent, Glent has a direct effect on not Razz, Razz has a direct effect on Pex, Pex and Zurn has a direct effect on Zlim. Razz~Bern(0.6). We observed Pex not occurs",
+        "variable_mapping": {
+            "X": "Glent",
+            "V1": "Razz",
+            "V2": "Pex",
+            "V3": "Zurn",
+            "V4": "Melf",
+            "V5": "Crip",
+            "V6": "Flen",
+            "V7": "Tork",
+            "V8": "Bilo",
+            "Y": "Zlim"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 37,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Wrenk has a direct effect on Praf, Praf has a direct effect on not Vank, Vank has a direct effect on Scud, Scud and Wrenk has a direct effect on Klep. Vank~Bern(0.6). We observed Scud not occurs",
+        "variable_mapping": {
+            "X": "Praf",
+            "V1": "Vank",
+            "V2": "Scud",
+            "V3": "Wrenk",
+            "V4": "Yobb",
+            "V5": "Glim",
+            "V6": "Spog",
+            "V7": "Torb",
+            "V8": "Frun",
+            "Y": "Klep"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 38,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Quaz has a direct effect on Fizo, Fizo has a direct effect on not Blorn, Blorn has a direct effect on Plim, Plim and Quaz has a direct effect on Jext. Blorn~Bern(0.6). We observed Plim not occurs",
+        "variable_mapping": {
+            "X": "Fizo",
+            "V1": "Blorn",
+            "V2": "Plim",
+            "V3": "Quaz",
+            "V4": "Skul",
+            "V5": "Triv",
+            "V6": "Yex",
+            "V7": "Rild",
+            "V8": "Vurn",
+            "Y": "Jext"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 39,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Druk has a direct effect on Nuv, Nuv has a direct effect on not Splee, Splee has a direct effect on Blen, Blen and Druk has a direct effect on Wrox. Splee~Bern(0.6). We observed Blen not occurs",
+        "variable_mapping": {
+            "X": "Nuv",
+            "V1": "Splee",
+            "V2": "Blen",
+            "V3": "Druk",
+            "V4": "Plog",
+            "V5": "Skrim",
+            "V6": "Zimb",
+            "V7": "Yurd",
+            "V8": "Grif",
+            "Y": "Wrox"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 40,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blaf has a direct effect on Ziklo, Ziklo or Blaf has a direct effect on Trune, Trune has a direct effect on Vork, Vork has a direct effect on Sline, and Sline has a direct effect on Lumbo. Blaf~Bern(0.4). We observed Trune.",
+        "variable_mapping": {
+            "X": "Ziklo",
+            "V1": "Blaf",
+            "V2": "Trune",
+            "V3": "Vork",
+            "V4": "Sline",
+            "V5": "Frim",
+            "V6": "Qado",
+            "V7": "Jurf",
+            "V8": "Drig",
+            "Y": "Lumbo"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 41,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Razz has a direct effect on Glent, Glent or Razz has a direct effect on Pex, Pex has a direct effect on Zurn, Zurn has a direct effect on Melf, and Melf has a direct effect on Zlim. Razz~Bern(0.4). We observed Pex.",
+        "variable_mapping": {
+            "X": "Glent",
+            "V1": "Razz",
+            "V2": "Pex",
+            "V3": "Zurn",
+            "V4": "Melf",
+            "V5": "Crip",
+            "V6": "Flen",
+            "V7": "Tork",
+            "V8": "Bilo",
+            "Y": "Zlim"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 42,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Vank has a direct effect on Praf, Praf or Vank has a direct effect on Scud, Scud has a direct effect on Wrenk, Wrenk has a direct effect on Yobb, and Yobb has a direct effect on Klep. Vank~Bern(0.4). We observed Scud.",
+        "variable_mapping": {
+            "X": "Praf",
+            "V1": "Vank",
+            "V2": "Scud",
+            "V3": "Wrenk",
+            "V4": "Yobb",
+            "V5": "Glim",
+            "V6": "Spog",
+            "V7": "Torb",
+            "V8": "Frun",
+            "Y": "Klep"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 43,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blorn has a direct effect on Fizo, Fizo or Blorn has a direct effect on Plim, Plim has a direct effect on Quaz, Quaz has a direct effect on Skul, and Skul has a direct effect on Jext. Blorn~Bern(0.4). We observed Plim.",
+        "variable_mapping": {
+            "X": "Fizo",
+            "V1": "Blorn",
+            "V2": "Plim",
+            "V3": "Quaz",
+            "V4": "Skul",
+            "V5": "Triv",
+            "V6": "Yex",
+            "V7": "Rild",
+            "V8": "Vurn",
+            "Y": "Jext"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 44,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Splee has a direct effect on Nuv, Nuv or Splee has a direct effect on Blen, Blen has a direct effect on Druk, Druk has a direct effect on Plog, and Plog has a direct effect on Wrox. Splee~Bern(0.4). We observed Blen.",
+        "variable_mapping": {
+            "X": "Nuv",
+            "V1": "Splee",
+            "V2": "Blen",
+            "V3": "Druk",
+            "V4": "Plog",
+            "V5": "Skrim",
+            "V6": "Zimb",
+            "V7": "Yurd",
+            "V8": "Grif",
+            "Y": "Wrox"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 45,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blaf has a direct effect on Ziklo, Ziklo and Blaf has a direct effect on Trune, Trune has a direct effect on Vork, Vork has a direct effect on Sline, and Sline has a direct effect on Lumbo. Blaf~Bern(0.4). We observed Trune.",
+        "variable_mapping": {
+            "X": "Ziklo",
+            "V1": "Blaf",
+            "V2": "Trune",
+            "V3": "Vork",
+            "V4": "Sline",
+            "V5": "Frim",
+            "V6": "Qado",
+            "V7": "Jurf",
+            "V8": "Drig",
+            "Y": "Lumbo"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 46,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Razz has a direct effect on Glent, Glent and Razz has a direct effect on Pex, Pex has a direct effect on Zurn, Zurn has a direct effect on Melf, and Melf has a direct effect on Zlim. Razz~Bern(0.4). We observed Pex.",
+        "variable_mapping": {
+            "X": "Glent",
+            "V1": "Razz",
+            "V2": "Pex",
+            "V3": "Zurn",
+            "V4": "Melf",
+            "V5": "Crip",
+            "V6": "Flen",
+            "V7": "Tork",
+            "V8": "Bilo",
+            "Y": "Zlim"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 47,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Vank has a direct effect on Praf, Praf and Vank has a direct effect on Scud, Scud has a direct effect on Wrenk, Wrenk has a direct effect on Yobb, and Yobb has a direct effect on Klep. Vank~Bern(0.4). We observed Scud.",
+        "variable_mapping": {
+            "X": "Praf",
+            "V1": "Vank",
+            "V2": "Scud",
+            "V3": "Wrenk",
+            "V4": "Yobb",
+            "V5": "Glim",
+            "V6": "Spog",
+            "V7": "Torb",
+            "V8": "Frun",
+            "Y": "Klep"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 48,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blorn has a direct effect on Fizo, Fizo and Blorn has a direct effect on Plim, Plim has a direct effect on Quaz, Quaz has a direct effect on Skul, and Skul has a direct effect on Jext. Blorn~Bern(0.4). We observed Plim.",
+        "variable_mapping": {
+            "X": "Fizo",
+            "V1": "Blorn",
+            "V2": "Plim",
+            "V3": "Quaz",
+            "V4": "Skul",
+            "V5": "Triv",
+            "V6": "Yex",
+            "V7": "Rild",
+            "V8": "Vurn",
+            "Y": "Jext"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 49,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Splee has a direct effect on Nuv, Nuv and Splee has a direct effect on Blen, Blen has a direct effect on Druk, Druk has a direct effect on Plog, and Plog has a direct effect on Wrox. Splee~Bern(0.4). We observed Blen.",
+        "variable_mapping": {
+            "X": "Nuv",
+            "V1": "Splee",
+            "V2": "Blen",
+            "V3": "Druk",
+            "V4": "Plog",
+            "V5": "Skrim",
+            "V6": "Zimb",
+            "V7": "Yurd",
+            "V8": "Grif",
+            "Y": "Wrox"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 50,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Trune has a direct effect on Ziklo, Ziklo has a direct effect on Blaf, Blaf has a direct effect on Vork, Vork and Blaf have direct effects on Sline, and Sline has a direct effect on Lumbo. Trune~Bern(0.4). We observed Blaf",
+        "variable_mapping": {
+            "X": "Ziklo",
+            "V1": "Blaf",
+            "V2": "Trune",
+            "V3": "Vork",
+            "V4": "Sline",
+            "V5": "Frim",
+            "V6": "Qado",
+            "V7": "Jurf",
+            "V8": "Drig",
+            "Y": "Lumbo"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 51,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Pex has a direct effect on Glent, Glent has a direct effect on Razz, Razz has a direct effect on Zurn, Zurn and Razz have direct effects on Melf, and Melf has a direct effect on Zlim. Pex~Bern(0.4). We observed Razz",
+        "variable_mapping": {
+            "X": "Glent",
+            "V1": "Razz",
+            "V2": "Pex",
+            "V3": "Zurn",
+            "V4": "Melf",
+            "V5": "Crip",
+            "V6": "Flen",
+            "V7": "Tork",
+            "V8": "Bilo",
+            "Y": "Zlim"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 52,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Scud has a direct effect on Praf, Praf has a direct effect on Vank, Vank has a direct effect on Wrenk, Wrenk and Vank have direct effects on Yobb, and Yobb has a direct effect on Klep. Scud~Bern(0.4). We observed Vank",
+        "variable_mapping": {
+            "X": "Praf",
+            "V1": "Vank",
+            "V2": "Scud",
+            "V3": "Wrenk",
+            "V4": "Yobb",
+            "V5": "Glim",
+            "V6": "Spog",
+            "V7": "Torb",
+            "V8": "Frun",
+            "Y": "Klep"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 53,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Plim has a direct effect on Fizo, Fizo has a direct effect on Blorn, Blorn has a direct effect on Quaz, Quaz and Blorn have direct effects on Skul, and Skul has a direct effect on Jext. Plim~Bern(0.4). We observed Blorn",
+        "variable_mapping": {
+            "X": "Fizo",
+            "V1": "Blorn",
+            "V2": "Plim",
+            "V3": "Quaz",
+            "V4": "Skul",
+            "V5": "Triv",
+            "V6": "Yex",
+            "V7": "Rild",
+            "V8": "Vurn",
+            "Y": "Jext"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 54,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blen has a direct effect on Nuv, Nuv has a direct effect on Splee, Splee has a direct effect on Druk, Druk and Splee have direct effects on Plog, and Plog has a direct effect on Wrox. Blen~Bern(0.4). We observed Splee",
+        "variable_mapping": {
+            "X": "Nuv",
+            "V1": "Splee",
+            "V2": "Blen",
+            "V3": "Druk",
+            "V4": "Plog",
+            "V5": "Skrim",
+            "V6": "Zimb",
+            "V7": "Yurd",
+            "V8": "Grif",
+            "Y": "Wrox"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 55,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Trune has a direct effect on Ziklo, Ziklo has a direct effect on Blaf, Trune has a direct effect on Vork, Vork or Blaf have direct effects on Sline, and Sline has a direct effect on Lumbo. Trune~Bern(0.4). We observed Blaf",
+        "variable_mapping": {
+            "X": "Ziklo",
+            "V1": "Blaf",
+            "V2": "Trune",
+            "V3": "Vork",
+            "V4": "Sline",
+            "V5": "Frim",
+            "V6": "Qado",
+            "V7": "Jurf",
+            "V8": "Drig",
+            "Y": "Lumbo"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 56,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Pex has a direct effect on Glent, Glent has a direct effect on Razz, Pex has a direct effect on Zurn, Zurn or Razz have direct effects on Melf, and Melf has a direct effect on Zlim. Pex~Bern(0.4). We observed Razz",
+        "variable_mapping": {
+            "X": "Glent",
+            "V1": "Razz",
+            "V2": "Pex",
+            "V3": "Zurn",
+            "V4": "Melf",
+            "V5": "Crip",
+            "V6": "Flen",
+            "V7": "Tork",
+            "V8": "Bilo",
+            "Y": "Zlim"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 57,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Scud has a direct effect on Praf, Praf has a direct effect on Vank, Scud has a direct effect on Wrenk, Wrenk or Vank have direct effects on Yobb, and Yobb has a direct effect on Klep. Scud~Bern(0.4). We observed Vank",
+        "variable_mapping": {
+            "X": "Praf",
+            "V1": "Vank",
+            "V2": "Scud",
+            "V3": "Wrenk",
+            "V4": "Yobb",
+            "V5": "Glim",
+            "V6": "Spog",
+            "V7": "Torb",
+            "V8": "Frun",
+            "Y": "Klep"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 58,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Plim has a direct effect on Fizo, Fizo has a direct effect on Blorn, Plim has a direct effect on Quaz, Quaz or Blorn have direct effects on Skul, and Skul has a direct effect on Jext. Plim~Bern(0.4). We observed Blorn",
+        "variable_mapping": {
+            "X": "Fizo",
+            "V1": "Blorn",
+            "V2": "Plim",
+            "V3": "Quaz",
+            "V4": "Skul",
+            "V5": "Triv",
+            "V6": "Yex",
+            "V7": "Rild",
+            "V8": "Vurn",
+            "Y": "Jext"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 59,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blen has a direct effect on Nuv, Nuv has a direct effect on Splee, Blen has a direct effect on Druk, Druk or Splee have direct effects on Plog, and Plog has a direct effect on Wrox. Blen~Bern(0.4). We observed Splee",
+        "variable_mapping": {
+            "X": "Nuv",
+            "V1": "Splee",
+            "V2": "Blen",
+            "V3": "Druk",
+            "V4": "Plog",
+            "V5": "Skrim",
+            "V6": "Zimb",
+            "V7": "Yurd",
+            "V8": "Grif",
+            "Y": "Wrox"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 60,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blaf has a direct effect on Ziklo, Ziklo has a direct effect on Trune, Trune has a direct effect on Vork, Vork has a direct effect on Sline, and Sline has a direct effect on Lumbo. Blaf~Bern(0.4). We observed Trune",
+        "variable_mapping": {
+            "X": "Ziklo",
+            "V1": "Blaf",
+            "V2": "Trune",
+            "V3": "Vork",
+            "V4": "Sline",
+            "V5": "Frim",
+            "V6": "Qado",
+            "V7": "Jurf",
+            "V8": "Drig",
+            "Y": "Lumbo"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 61,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Razz has a direct effect on Glent, Glent has a direct effect on Pex, Pex has a direct effect on Zurn, Zurn has a direct effect on Melf, and Melf has a direct effect on Zlim. Razz~Bern(0.4). We observed Pex",
+        "variable_mapping": {
+            "X": "Glent",
+            "V1": "Razz",
+            "V2": "Pex",
+            "V3": "Zurn",
+            "V4": "Melf",
+            "V5": "Crip",
+            "V6": "Flen",
+            "V7": "Tork",
+            "V8": "Bilo",
+            "Y": "Zlim"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 62,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Vank has a direct effect on Praf, Praf has a direct effect on Scud, Scud has a direct effect on Wrenk, Wrenk has a direct effect on Yobb, and Yobb has a direct effect on Klep. Vank~Bern(0.4). We observed Scud",
+        "variable_mapping": {
+            "X": "Praf",
+            "V1": "Vank",
+            "V2": "Scud",
+            "V3": "Wrenk",
+            "V4": "Yobb",
+            "V5": "Glim",
+            "V6": "Spog",
+            "V7": "Torb",
+            "V8": "Frun",
+            "Y": "Klep"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 63,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blorn has a direct effect on Fizo, Fizo has a direct effect on Plim, Plim has a direct effect on Quaz, Quaz has a direct effect on Skul, and Skul has a direct effect on Jext. Blorn~Bern(0.4). We observed Plim",
+        "variable_mapping": {
+            "X": "Fizo",
+            "V1": "Blorn",
+            "V2": "Plim",
+            "V3": "Quaz",
+            "V4": "Skul",
+            "V5": "Triv",
+            "V6": "Yex",
+            "V7": "Rild",
+            "V8": "Vurn",
+            "Y": "Jext"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 64,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Splee has a direct effect on Nuv, Nuv has a direct effect on Blen, Blen has a direct effect on Druk, Druk has a direct effect on Plog, and Plog has a direct effect on Wrox. Splee~Bern(0.4). We observed Blen",
+        "variable_mapping": {
+            "X": "Nuv",
+            "V1": "Splee",
+            "V2": "Blen",
+            "V3": "Druk",
+            "V4": "Plog",
+            "V5": "Skrim",
+            "V6": "Zimb",
+            "V7": "Yurd",
+            "V8": "Grif",
+            "Y": "Wrox"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 65,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blaf has a direct effect on Ziklo, Blaf and Trune have direct effects on not Vork, Vork has a direct effect on Sline, and Sline has a direct effect on Lumbo. Blaf~Bern(0.4). We observed not Vork. ",
+        "variable_mapping": {
+            "X": "Ziklo",
+            "V1": "Blaf",
+            "V2": "Trune",
+            "V3": "Vork",
+            "V4": "Sline",
+            "V5": "Frim",
+            "V6": "Qado",
+            "V7": "Jurf",
+            "V8": "Drig",
+            "Y": "Lumbo"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 66,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Razz has a direct effect on Glent, Razz and Pex have direct effects on not Zurn, Zurn has a direct effect on Melf, and Melf has a direct effect on Zlim. Razz~Bern(0.4). We observed not Zurn. ",
+        "variable_mapping": {
+            "X": "Glent",
+            "V1": "Razz",
+            "V2": "Pex",
+            "V3": "Zurn",
+            "V4": "Melf",
+            "V5": "Crip",
+            "V6": "Flen",
+            "V7": "Tork",
+            "V8": "Bilo",
+            "Y": "Zlim"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 67,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Vank has a direct effect on Praf, Vank and Scud have direct effects on not Wrenk, Wrenk has a direct effect on Yobb, and Yobb has a direct effect on Klep. Vank~Bern(0.4). We observed not Wrenk. ",
+        "variable_mapping": {
+            "X": "Praf",
+            "V1": "Vank",
+            "V2": "Scud",
+            "V3": "Wrenk",
+            "V4": "Yobb",
+            "V5": "Glim",
+            "V6": "Spog",
+            "V7": "Torb",
+            "V8": "Frun",
+            "Y": "Klep"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 68,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blorn has a direct effect on Fizo, Blorn and Plim have direct effects on not Quaz, Quaz has a direct effect on Skul, and Skul has a direct effect on Jext. Blorn~Bern(0.4). We observed not Quaz. ",
+        "variable_mapping": {
+            "X": "Fizo",
+            "V1": "Blorn",
+            "V2": "Plim",
+            "V3": "Quaz",
+            "V4": "Skul",
+            "V5": "Triv",
+            "V6": "Yex",
+            "V7": "Rild",
+            "V8": "Vurn",
+            "Y": "Jext"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 69,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Splee has a direct effect on Nuv, Splee and Blen have direct effects on not Druk, Druk has a direct effect on Plog, and Plog has a direct effect on Wrox. Splee~Bern(0.4). We observed not Druk. ",
+        "variable_mapping": {
+            "X": "Nuv",
+            "V1": "Splee",
+            "V2": "Blen",
+            "V3": "Druk",
+            "V4": "Plog",
+            "V5": "Skrim",
+            "V6": "Zimb",
+            "V7": "Yurd",
+            "V8": "Grif",
+            "Y": "Wrox"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 70,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Sline has a direct effect on Ziklo, Ziklo or Blaf has a direct effect on Trune, Trune has a direct effect on Vork, Vork has a direct effect on Lumbo. Sline~Bern(0.4). We observed Trune and Blaf.",
+        "variable_mapping": {
+            "X": "Ziklo",
+            "V1": "Blaf",
+            "V2": "Trune",
+            "V3": "Vork",
+            "V4": "Sline",
+            "V5": "Frim",
+            "V6": "Qado",
+            "V7": "Jurf",
+            "V8": "Drig",
+            "Y": "Lumbo"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 71,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Melf has a direct effect on Glent, Glent or Razz has a direct effect on Pex, Pex has a direct effect on Zurn, Zurn has a direct effect on Zlim. Melf~Bern(0.4). We observed Pex and Razz.",
+        "variable_mapping": {
+            "X": "Glent",
+            "V1": "Razz",
+            "V2": "Pex",
+            "V3": "Zurn",
+            "V4": "Melf",
+            "V5": "Crip",
+            "V6": "Flen",
+            "V7": "Tork",
+            "V8": "Bilo",
+            "Y": "Zlim"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 72,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Yobb has a direct effect on Praf, Praf or Vank has a direct effect on Scud, Scud has a direct effect on Wrenk, Wrenk has a direct effect on Klep. Yobb~Bern(0.4). We observed Scud and Vank.",
+        "variable_mapping": {
+            "X": "Praf",
+            "V1": "Vank",
+            "V2": "Scud",
+            "V3": "Wrenk",
+            "V4": "Yobb",
+            "V5": "Glim",
+            "V6": "Spog",
+            "V7": "Torb",
+            "V8": "Frun",
+            "Y": "Klep"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 73,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Skul has a direct effect on Fizo, Fizo or Blorn has a direct effect on Plim, Plim has a direct effect on Quaz, Quaz has a direct effect on Jext. Skul~Bern(0.4). We observed Plim and Blorn.",
+        "variable_mapping": {
+            "X": "Fizo",
+            "V1": "Blorn",
+            "V2": "Plim",
+            "V3": "Quaz",
+            "V4": "Skul",
+            "V5": "Triv",
+            "V6": "Yex",
+            "V7": "Rild",
+            "V8": "Vurn",
+            "Y": "Jext"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 74,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Plog has a direct effect on Nuv, Nuv or Splee has a direct effect on Blen, Blen has a direct effect on Druk, Druk has a direct effect on Wrox. Plog~Bern(0.4). We observed Blen and Splee.",
+        "variable_mapping": {
+            "X": "Nuv",
+            "V1": "Splee",
+            "V2": "Blen",
+            "V3": "Druk",
+            "V4": "Plog",
+            "V5": "Skrim",
+            "V6": "Zimb",
+            "V7": "Yurd",
+            "V8": "Grif",
+            "Y": "Wrox"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 75,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blaf has a direct effect on Ziklo, Blaf has a direct effect on Trune, Trune has a direct effect on not Vork, Vork and Ziklo has a direct effect on Sline, and Sline has a direct effect on Lumbo.  Blaf~Bern(0.2). We observed Trune.",
+        "variable_mapping": {
+            "X": "Ziklo",
+            "V1": "Blaf",
+            "V2": "Trune",
+            "V3": "Vork",
+            "V4": "Sline",
+            "V5": "Frim",
+            "V6": "Qado",
+            "V7": "Jurf",
+            "V8": "Drig",
+            "Y": "Lumbo"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 76,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Razz has a direct effect on Glent, Razz has a direct effect on Pex, Pex has a direct effect on not Zurn, Zurn and Glent has a direct effect on Melf, and Melf has a direct effect on Zlim.  Razz~Bern(0.2). We observed Pex.",
+        "variable_mapping": {
+            "X": "Glent",
+            "V1": "Razz",
+            "V2": "Pex",
+            "V3": "Zurn",
+            "V4": "Melf",
+            "V5": "Crip",
+            "V6": "Flen",
+            "V7": "Tork",
+            "V8": "Bilo",
+            "Y": "Zlim"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 77,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Vank has a direct effect on Praf, Vank has a direct effect on Scud, Scud has a direct effect on not Wrenk, Wrenk and Praf has a direct effect on Yobb, and Yobb has a direct effect on Klep.  Vank~Bern(0.2). We observed Scud.",
+        "variable_mapping": {
+            "X": "Praf",
+            "V1": "Vank",
+            "V2": "Scud",
+            "V3": "Wrenk",
+            "V4": "Yobb",
+            "V5": "Glim",
+            "V6": "Spog",
+            "V7": "Torb",
+            "V8": "Frun",
+            "Y": "Klep"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 78,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blorn has a direct effect on Fizo, Blorn has a direct effect on Plim, Plim has a direct effect on not Quaz, Quaz and Fizo has a direct effect on Skul, and Skul has a direct effect on Jext.  Blorn~Bern(0.2). We observed Plim.",
+        "variable_mapping": {
+            "X": "Fizo",
+            "V1": "Blorn",
+            "V2": "Plim",
+            "V3": "Quaz",
+            "V4": "Skul",
+            "V5": "Triv",
+            "V6": "Yex",
+            "V7": "Rild",
+            "V8": "Vurn",
+            "Y": "Jext"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 79,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Splee has a direct effect on Nuv, Splee has a direct effect on Blen, Blen has a direct effect on not Druk, Druk and Nuv has a direct effect on Plog, and Plog has a direct effect on Wrox.  Splee~Bern(0.2). We observed Blen.",
+        "variable_mapping": {
+            "X": "Nuv",
+            "V1": "Splee",
+            "V2": "Blen",
+            "V3": "Druk",
+            "V4": "Plog",
+            "V5": "Skrim",
+            "V6": "Zimb",
+            "V7": "Yurd",
+            "V8": "Grif",
+            "Y": "Wrox"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 80,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blaf has a direct effect on Ziklo, Ziklo has a direct effect on Trune, Trune has a direct effect on Vork, Vork has a direct effect on Sline, Sline and Frim has a direct effect on Lumbo. Blaf~Bern(0.2). We observed Blaf and Frim.",
+        "variable_mapping": {
+            "X": "Ziklo",
+            "V1": "Blaf",
+            "V2": "Trune",
+            "V3": "Vork",
+            "V4": "Sline",
+            "V5": "Frim",
+            "V6": "Qado",
+            "V7": "Jurf",
+            "V8": "Drig",
+            "Y": "Lumbo"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 81,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Razz has a direct effect on Glent, Glent has a direct effect on Pex, Pex has a direct effect on Zurn, Zurn has a direct effect on Melf, Melf and Crip has a direct effect on Zlim. Razz~Bern(0.2). We observed Razz and Crip.",
+        "variable_mapping": {
+            "X": "Glent",
+            "V1": "Razz",
+            "V2": "Pex",
+            "V3": "Zurn",
+            "V4": "Melf",
+            "V5": "Crip",
+            "V6": "Flen",
+            "V7": "Tork",
+            "V8": "Bilo",
+            "Y": "Zlim"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 82,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Vank has a direct effect on Praf, Praf has a direct effect on Scud, Scud has a direct effect on Wrenk, Wrenk has a direct effect on Yobb, Yobb and Glim has a direct effect on Klep. Vank~Bern(0.2). We observed Vank and Glim.",
+        "variable_mapping": {
+            "X": "Praf",
+            "V1": "Vank",
+            "V2": "Scud",
+            "V3": "Wrenk",
+            "V4": "Yobb",
+            "V5": "Glim",
+            "V6": "Spog",
+            "V7": "Torb",
+            "V8": "Frun",
+            "Y": "Klep"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 83,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blorn has a direct effect on Fizo, Fizo has a direct effect on Plim, Plim has a direct effect on Quaz, Quaz has a direct effect on Skul, Skul and Triv has a direct effect on Jext. Blorn~Bern(0.2). We observed Blorn and Triv.",
+        "variable_mapping": {
+            "X": "Fizo",
+            "V1": "Blorn",
+            "V2": "Plim",
+            "V3": "Quaz",
+            "V4": "Skul",
+            "V5": "Triv",
+            "V6": "Yex",
+            "V7": "Rild",
+            "V8": "Vurn",
+            "Y": "Jext"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 84,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Splee has a direct effect on Nuv, Nuv has a direct effect on Blen, Blen has a direct effect on Druk, Druk has a direct effect on Plog, Plog and Skrim has a direct effect on Wrox. Splee~Bern(0.2). We observed Splee and Skrim.",
+        "variable_mapping": {
+            "X": "Nuv",
+            "V1": "Splee",
+            "V2": "Blen",
+            "V3": "Druk",
+            "V4": "Plog",
+            "V5": "Skrim",
+            "V6": "Zimb",
+            "V7": "Yurd",
+            "V8": "Grif",
+            "Y": "Wrox"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 85,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blaf has a direct effect on Ziklo, Ziklo has a direct effect on Trune, Trune has a direct effect on Vork, Vork has a direct effect on Sline, Sline or Frim has a direct effect on Lumbo. Blaf~Bern(0.2). We observed Trune and Frim.",
+        "variable_mapping": {
+            "X": "Ziklo",
+            "V1": "Blaf",
+            "V2": "Trune",
+            "V3": "Vork",
+            "V4": "Sline",
+            "V5": "Frim",
+            "V6": "Qado",
+            "V7": "Jurf",
+            "V8": "Drig",
+            "Y": "Lumbo"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 86,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Razz has a direct effect on Glent, Glent has a direct effect on Pex, Pex has a direct effect on Zurn, Zurn has a direct effect on Melf, Melf or Crip has a direct effect on Zlim. Razz~Bern(0.2). We observed Pex and Crip.",
+        "variable_mapping": {
+            "X": "Glent",
+            "V1": "Razz",
+            "V2": "Pex",
+            "V3": "Zurn",
+            "V4": "Melf",
+            "V5": "Crip",
+            "V6": "Flen",
+            "V7": "Tork",
+            "V8": "Bilo",
+            "Y": "Zlim"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 87,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Vank has a direct effect on Praf, Praf has a direct effect on Scud, Scud has a direct effect on Wrenk, Wrenk has a direct effect on Yobb, Yobb or Glim has a direct effect on Klep. Vank~Bern(0.2). We observed Scud and Glim.",
+        "variable_mapping": {
+            "X": "Praf",
+            "V1": "Vank",
+            "V2": "Scud",
+            "V3": "Wrenk",
+            "V4": "Yobb",
+            "V5": "Glim",
+            "V6": "Spog",
+            "V7": "Torb",
+            "V8": "Frun",
+            "Y": "Klep"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 88,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blorn has a direct effect on Fizo, Fizo has a direct effect on Plim, Plim has a direct effect on Quaz, Quaz has a direct effect on Skul, Skul or Triv has a direct effect on Jext. Blorn~Bern(0.2). We observed Plim and Triv.",
+        "variable_mapping": {
+            "X": "Fizo",
+            "V1": "Blorn",
+            "V2": "Plim",
+            "V3": "Quaz",
+            "V4": "Skul",
+            "V5": "Triv",
+            "V6": "Yex",
+            "V7": "Rild",
+            "V8": "Vurn",
+            "Y": "Jext"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 89,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Splee has a direct effect on Nuv, Nuv has a direct effect on Blen, Blen has a direct effect on Druk, Druk has a direct effect on Plog, Plog or Skrim has a direct effect on Wrox. Splee~Bern(0.2). We observed Blen and Skrim.",
+        "variable_mapping": {
+            "X": "Nuv",
+            "V1": "Splee",
+            "V2": "Blen",
+            "V3": "Druk",
+            "V4": "Plog",
+            "V5": "Skrim",
+            "V6": "Zimb",
+            "V7": "Yurd",
+            "V8": "Grif",
+            "Y": "Wrox"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 90,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blaf has a direct effect on Ziklo, Ziklo has a direct effect on Trune, Trune has a direct effect on not Vork, Vork or Blaf has a direct effect on Sline, Sline has a direct effect on Frim, and Frim has a direct effect on Lumbo. Blaf~Bern(0.2). We observed Trune.",
+        "variable_mapping": {
+            "X": "Ziklo",
+            "V1": "Blaf",
+            "V2": "Trune",
+            "V3": "Vork",
+            "V4": "Sline",
+            "V5": "Frim",
+            "V6": "Qado",
+            "V7": "Jurf",
+            "V8": "Drig",
+            "Y": "Lumbo"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 91,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Razz has a direct effect on Glent, Glent has a direct effect on Pex, Pex has a direct effect on not Zurn, Zurn or Razz has a direct effect on Melf, Melf has a direct effect on Crip, and Crip has a direct effect on Zlim. Razz~Bern(0.2). We observed Pex.",
+        "variable_mapping": {
+            "X": "Glent",
+            "V1": "Razz",
+            "V2": "Pex",
+            "V3": "Zurn",
+            "V4": "Melf",
+            "V5": "Crip",
+            "V6": "Flen",
+            "V7": "Tork",
+            "V8": "Bilo",
+            "Y": "Zlim"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 92,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Vank has a direct effect on Praf, Praf has a direct effect on Scud, Scud has a direct effect on not Wrenk, Wrenk or Vank has a direct effect on Yobb, Yobb has a direct effect on Glim, and Glim has a direct effect on Klep. Vank~Bern(0.2). We observed Scud.",
+        "variable_mapping": {
+            "X": "Praf",
+            "V1": "Vank",
+            "V2": "Scud",
+            "V3": "Wrenk",
+            "V4": "Yobb",
+            "V5": "Glim",
+            "V6": "Spog",
+            "V7": "Torb",
+            "V8": "Frun",
+            "Y": "Klep"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 93,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blorn has a direct effect on Fizo, Fizo has a direct effect on Plim, Plim has a direct effect on not Quaz, Quaz or Blorn has a direct effect on Skul, Skul has a direct effect on Triv, and Triv has a direct effect on Jext. Blorn~Bern(0.2). We observed Plim.",
+        "variable_mapping": {
+            "X": "Fizo",
+            "V1": "Blorn",
+            "V2": "Plim",
+            "V3": "Quaz",
+            "V4": "Skul",
+            "V5": "Triv",
+            "V6": "Yex",
+            "V7": "Rild",
+            "V8": "Vurn",
+            "Y": "Jext"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 94,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Splee has a direct effect on Nuv, Nuv has a direct effect on Blen, Blen has a direct effect on not Druk, Druk or Splee has a direct effect on Plog, Plog has a direct effect on Skrim, and Skrim has a direct effect on Wrox. Splee~Bern(0.2). We observed Blen.",
+        "variable_mapping": {
+            "X": "Nuv",
+            "V1": "Splee",
+            "V2": "Blen",
+            "V3": "Druk",
+            "V4": "Plog",
+            "V5": "Skrim",
+            "V6": "Zimb",
+            "V7": "Yurd",
+            "V8": "Grif",
+            "Y": "Wrox"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 95,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blaf has a direct effect on Ziklo, Ziklo has a direct effect on Trune, Trune has a direct effect on not Vork, Vork and Ziklo has a direct effect on Sline, Sline has a direct effect on Frim, and Frim has a direct effect on Lumbo. Blaf~Bern(0.2). We observed Trune and Frim.",
+        "variable_mapping": {
+            "X": "Ziklo",
+            "V1": "Blaf",
+            "V2": "Trune",
+            "V3": "Vork",
+            "V4": "Sline",
+            "V5": "Frim",
+            "V6": "Qado",
+            "V7": "Jurf",
+            "V8": "Drig",
+            "Y": "Lumbo"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 96,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Razz has a direct effect on Glent, Glent has a direct effect on Pex, Pex has a direct effect on not Zurn, Zurn and Glent has a direct effect on Melf, Melf has a direct effect on Crip, and Crip has a direct effect on Zlim. Razz~Bern(0.2). We observed Pex and Crip.",
+        "variable_mapping": {
+            "X": "Glent",
+            "V1": "Razz",
+            "V2": "Pex",
+            "V3": "Zurn",
+            "V4": "Melf",
+            "V5": "Crip",
+            "V6": "Flen",
+            "V7": "Tork",
+            "V8": "Bilo",
+            "Y": "Zlim"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 97,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Vank has a direct effect on Praf, Praf has a direct effect on Scud, Scud has a direct effect on not Wrenk, Wrenk and Praf has a direct effect on Yobb, Yobb has a direct effect on Glim, and Glim has a direct effect on Klep. Vank~Bern(0.2). We observed Scud and Glim.",
+        "variable_mapping": {
+            "X": "Praf",
+            "V1": "Vank",
+            "V2": "Scud",
+            "V3": "Wrenk",
+            "V4": "Yobb",
+            "V5": "Glim",
+            "V6": "Spog",
+            "V7": "Torb",
+            "V8": "Frun",
+            "Y": "Klep"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 98,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blorn has a direct effect on Fizo, Fizo has a direct effect on Plim, Plim has a direct effect on not Quaz, Quaz and Fizo has a direct effect on Skul, Skul has a direct effect on Triv, and Triv has a direct effect on Jext. Blorn~Bern(0.2). We observed Plim and Triv.",
+        "variable_mapping": {
+            "X": "Fizo",
+            "V1": "Blorn",
+            "V2": "Plim",
+            "V3": "Quaz",
+            "V4": "Skul",
+            "V5": "Triv",
+            "V6": "Yex",
+            "V7": "Rild",
+            "V8": "Vurn",
+            "Y": "Jext"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 99,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Splee has a direct effect on Nuv, Nuv has a direct effect on Blen, Blen has a direct effect on not Druk, Druk and Nuv has a direct effect on Plog, Plog has a direct effect on Skrim, and Skrim has a direct effect on Wrox. Splee~Bern(0.2). We observed Blen and Skrim.",
+        "variable_mapping": {
+            "X": "Nuv",
+            "V1": "Splee",
+            "V2": "Blen",
+            "V3": "Druk",
+            "V4": "Plog",
+            "V5": "Skrim",
+            "V6": "Zimb",
+            "V7": "Yurd",
+            "V8": "Grif",
+            "Y": "Wrox"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 100,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blaf has a direct effect on Ziklo, Ziklo or Trune has a direct effect on Vork, Vork and Trune have direct effects on Sline, Sline has a direct effect on Frim, and Frim has a direct effect on Lumbo. Blaf~Bern(0.2). We observed Trune and Frim.",
+        "variable_mapping": {
+            "X": "Ziklo",
+            "V1": "Blaf",
+            "V2": "Trune",
+            "V3": "Vork",
+            "V4": "Sline",
+            "V5": "Frim",
+            "V6": "Qado",
+            "V7": "Jurf",
+            "V8": "Drig",
+            "Y": "Lumbo"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 101,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Razz has a direct effect on Glent, Glent or Pex has a direct effect on Zurn, Zurn and Pex have direct effects on Melf, Melf has a direct effect on Crip, and Crip has a direct effect on Zlim. Razz~Bern(0.2). We observed Pex and Crip.",
+        "variable_mapping": {
+            "X": "Glent",
+            "V1": "Razz",
+            "V2": "Pex",
+            "V3": "Zurn",
+            "V4": "Melf",
+            "V5": "Crip",
+            "V6": "Flen",
+            "V7": "Tork",
+            "V8": "Bilo",
+            "Y": "Zlim"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 102,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Vank has a direct effect on Praf, Praf or Scud has a direct effect on Wrenk, Wrenk and Scud have direct effects on Yobb, Yobb has a direct effect on Glim, and Glim has a direct effect on Klep. Vank~Bern(0.2). We observed Scud and Glim.",
+        "variable_mapping": {
+            "X": "Praf",
+            "V1": "Vank",
+            "V2": "Scud",
+            "V3": "Wrenk",
+            "V4": "Yobb",
+            "V5": "Glim",
+            "V6": "Spog",
+            "V7": "Torb",
+            "V8": "Frun",
+            "Y": "Klep"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 103,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blorn has a direct effect on Fizo, Fizo or Plim has a direct effect on Quaz, Quaz and Plim have direct effects on Skul, Skul has a direct effect on Triv, and Triv has a direct effect on Jext. Blorn~Bern(0.2). We observed Plim and Triv.",
+        "variable_mapping": {
+            "X": "Fizo",
+            "V1": "Blorn",
+            "V2": "Plim",
+            "V3": "Quaz",
+            "V4": "Skul",
+            "V5": "Triv",
+            "V6": "Yex",
+            "V7": "Rild",
+            "V8": "Vurn",
+            "Y": "Jext"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 104,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Splee has a direct effect on Nuv, Nuv or Blen has a direct effect on Druk, Druk and Blen have direct effects on Plog, Plog has a direct effect on Skrim, and Skrim has a direct effect on Wrox. Splee~Bern(0.2). We observed Blen and Skrim.",
+        "variable_mapping": {
+            "X": "Nuv",
+            "V1": "Splee",
+            "V2": "Blen",
+            "V3": "Druk",
+            "V4": "Plog",
+            "V5": "Skrim",
+            "V6": "Zimb",
+            "V7": "Yurd",
+            "V8": "Grif",
+            "Y": "Wrox"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 105,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blaf has a direct effect on Ziklo, Ziklo and Trune has a direct effect on Vork, Vork and Trune have direct effects on Sline, Sline has a direct effect on Frim, and Frim has a direct effect on Lumbo. Blaf~Bern(0.2). We observed Trune and Frim.",
+        "variable_mapping": {
+            "X": "Ziklo",
+            "V1": "Blaf",
+            "V2": "Trune",
+            "V3": "Vork",
+            "V4": "Sline",
+            "V5": "Frim",
+            "V6": "Qado",
+            "V7": "Jurf",
+            "V8": "Drig",
+            "Y": "Lumbo"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 106,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Razz has a direct effect on Glent, Glent and Pex has a direct effect on Zurn, Zurn and Pex have direct effects on Melf, Melf has a direct effect on Crip, and Crip has a direct effect on Zlim. Razz~Bern(0.2). We observed Pex and Crip.",
+        "variable_mapping": {
+            "X": "Glent",
+            "V1": "Razz",
+            "V2": "Pex",
+            "V3": "Zurn",
+            "V4": "Melf",
+            "V5": "Crip",
+            "V6": "Flen",
+            "V7": "Tork",
+            "V8": "Bilo",
+            "Y": "Zlim"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 107,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Vank has a direct effect on Praf, Praf and Scud has a direct effect on Wrenk, Wrenk and Scud have direct effects on Yobb, Yobb has a direct effect on Glim, and Glim has a direct effect on Klep. Vank~Bern(0.2). We observed Scud and Glim.",
+        "variable_mapping": {
+            "X": "Praf",
+            "V1": "Vank",
+            "V2": "Scud",
+            "V3": "Wrenk",
+            "V4": "Yobb",
+            "V5": "Glim",
+            "V6": "Spog",
+            "V7": "Torb",
+            "V8": "Frun",
+            "Y": "Klep"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 108,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blorn has a direct effect on Fizo, Fizo and Plim has a direct effect on Quaz, Quaz and Plim have direct effects on Skul, Skul has a direct effect on Triv, and Triv has a direct effect on Jext. Blorn~Bern(0.2). We observed Plim and Triv.",
+        "variable_mapping": {
+            "X": "Fizo",
+            "V1": "Blorn",
+            "V2": "Plim",
+            "V3": "Quaz",
+            "V4": "Skul",
+            "V5": "Triv",
+            "V6": "Yex",
+            "V7": "Rild",
+            "V8": "Vurn",
+            "Y": "Jext"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 109,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Splee has a direct effect on Nuv, Nuv and Blen has a direct effect on Druk, Druk and Blen have direct effects on Plog, Plog has a direct effect on Skrim, and Skrim has a direct effect on Wrox. Splee~Bern(0.2). We observed Blen and Skrim.",
+        "variable_mapping": {
+            "X": "Nuv",
+            "V1": "Splee",
+            "V2": "Blen",
+            "V3": "Druk",
+            "V4": "Plog",
+            "V5": "Skrim",
+            "V6": "Zimb",
+            "V7": "Yurd",
+            "V8": "Grif",
+            "Y": "Wrox"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 110,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blaf has a direct effect on Ziklo, Ziklo and Blaf have direct effects on Trune, Trune has a direct effect on Vork, Vork and Ziklo have direct effects on Sline, Sline has a direct effect on Frim, and Frim has a direct effect on Lumbo. Blaf~Bern(0.6). We observed Trune.",
+        "variable_mapping": {
+            "X": "Ziklo",
+            "V1": "Blaf",
+            "V2": "Trune",
+            "V3": "Vork",
+            "V4": "Sline",
+            "V5": "Frim",
+            "V6": "Qado",
+            "V7": "Jurf",
+            "V8": "Drig",
+            "Y": "Lumbo"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 111,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Razz has a direct effect on Glent, Glent and Razz have direct effects on Pex, Pex has a direct effect on Zurn, Zurn and Glent have direct effects on Melf, Melf has a direct effect on Crip, and Crip has a direct effect on Zlim. Razz~Bern(0.6). We observed Pex.",
+        "variable_mapping": {
+            "X": "Glent",
+            "V1": "Razz",
+            "V2": "Pex",
+            "V3": "Zurn",
+            "V4": "Melf",
+            "V5": "Crip",
+            "V6": "Flen",
+            "V7": "Tork",
+            "V8": "Bilo",
+            "Y": "Zlim"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 112,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Vank has a direct effect on Praf, Praf and Vank have direct effects on Scud, Scud has a direct effect on Wrenk, Wrenk and Praf have direct effects on Yobb, Yobb has a direct effect on Glim, and Glim has a direct effect on Klep. Vank~Bern(0.6). We observed Scud.",
+        "variable_mapping": {
+            "X": "Praf",
+            "V1": "Vank",
+            "V2": "Scud",
+            "V3": "Wrenk",
+            "V4": "Yobb",
+            "V5": "Glim",
+            "V6": "Spog",
+            "V7": "Torb",
+            "V8": "Frun",
+            "Y": "Klep"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 113,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blorn has a direct effect on Fizo, Fizo and Blorn have direct effects on Plim, Plim has a direct effect on Quaz, Quaz and Fizo have direct effects on Skul, Skul has a direct effect on Triv, and Triv has a direct effect on Jext. Blorn~Bern(0.6). We observed Plim.",
+        "variable_mapping": {
+            "X": "Fizo",
+            "V1": "Blorn",
+            "V2": "Plim",
+            "V3": "Quaz",
+            "V4": "Skul",
+            "V5": "Triv",
+            "V6": "Yex",
+            "V7": "Rild",
+            "V8": "Vurn",
+            "Y": "Jext"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 114,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Splee has a direct effect on Nuv, Nuv and Splee have direct effects on Blen, Blen has a direct effect on Druk, Druk and Nuv have direct effects on Plog, Plog has a direct effect on Skrim, and Skrim has a direct effect on Wrox. Splee~Bern(0.6). We observed Blen.",
+        "variable_mapping": {
+            "X": "Nuv",
+            "V1": "Splee",
+            "V2": "Blen",
+            "V3": "Druk",
+            "V4": "Plog",
+            "V5": "Skrim",
+            "V6": "Zimb",
+            "V7": "Yurd",
+            "V8": "Grif",
+            "Y": "Wrox"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 115,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blaf has a direct effect on Ziklo, Ziklo or Blaf has a direct effect on Trune, Trune has a direct effect on Vork, Vork and Ziklo have direct effects on not Sline, Sline has a direct effect on Frim, and Frim has a direct effect on Lumbo. Blaf~Bern(0.6). We observed Trune.",
+        "variable_mapping": {
+            "X": "Ziklo",
+            "V1": "Blaf",
+            "V2": "Trune",
+            "V3": "Vork",
+            "V4": "Sline",
+            "V5": "Frim",
+            "V6": "Qado",
+            "V7": "Jurf",
+            "V8": "Drig",
+            "Y": "Lumbo"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 116,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Razz has a direct effect on Glent, Glent or Razz has a direct effect on Pex, Pex has a direct effect on Zurn, Zurn and Glent have direct effects on not Melf, Melf has a direct effect on Crip, and Crip has a direct effect on Zlim. Razz~Bern(0.6). We observed Pex.",
+        "variable_mapping": {
+            "X": "Glent",
+            "V1": "Razz",
+            "V2": "Pex",
+            "V3": "Zurn",
+            "V4": "Melf",
+            "V5": "Crip",
+            "V6": "Flen",
+            "V7": "Tork",
+            "V8": "Bilo",
+            "Y": "Zlim"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 117,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Vank has a direct effect on Praf, Praf or Vank has a direct effect on Scud, Scud has a direct effect on Wrenk, Wrenk and Praf have direct effects on not Yobb, Yobb has a direct effect on Glim, and Glim has a direct effect on Klep. Vank~Bern(0.6). We observed Scud.",
+        "variable_mapping": {
+            "X": "Praf",
+            "V1": "Vank",
+            "V2": "Scud",
+            "V3": "Wrenk",
+            "V4": "Yobb",
+            "V5": "Glim",
+            "V6": "Spog",
+            "V7": "Torb",
+            "V8": "Frun",
+            "Y": "Klep"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 118,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blorn has a direct effect on Fizo, Fizo or Blorn has a direct effect on Plim, Plim has a direct effect on Quaz, Quaz and Fizo have direct effects on not Skul, Skul has a direct effect on Triv, and Triv has a direct effect on Jext. Blorn~Bern(0.6). We observed Plim.",
+        "variable_mapping": {
+            "X": "Fizo",
+            "V1": "Blorn",
+            "V2": "Plim",
+            "V3": "Quaz",
+            "V4": "Skul",
+            "V5": "Triv",
+            "V6": "Yex",
+            "V7": "Rild",
+            "V8": "Vurn",
+            "Y": "Jext"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 119,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Splee has a direct effect on Nuv, Nuv or Splee has a direct effect on Blen, Blen has a direct effect on Druk, Druk and Nuv have direct effects on not Plog, Plog has a direct effect on Skrim, and Skrim has a direct effect on Wrox. Splee~Bern(0.6). We observed Blen.",
+        "variable_mapping": {
+            "X": "Nuv",
+            "V1": "Splee",
+            "V2": "Blen",
+            "V3": "Druk",
+            "V4": "Plog",
+            "V5": "Skrim",
+            "V6": "Zimb",
+            "V7": "Yurd",
+            "V8": "Grif",
+            "Y": "Wrox"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 120,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blaf has a direct effect on Ziklo, Ziklo and Blaf has a direct effect on Trune, Trune has a direct effect on Vork, Vork has a direct effect on Sline, Sline has a direct effect on Frim, Frim has a direct effect on Qado, and Qado has a direct effect on Lumbo. Blaf~Bern(0.4). We observed Trune.",
+        "variable_mapping": {
+            "X": "Ziklo",
+            "V1": "Blaf",
+            "V2": "Trune",
+            "V3": "Vork",
+            "V4": "Sline",
+            "V5": "Frim",
+            "V6": "Qado",
+            "V7": "Jurf",
+            "V8": "Drig",
+            "Y": "Lumbo"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 121,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Razz has a direct effect on Glent, Glent and Razz has a direct effect on Pex, Pex has a direct effect on Zurn, Zurn has a direct effect on Melf, Melf has a direct effect on Crip, Crip has a direct effect on Flen, and Flen has a direct effect on Zlim. Razz~Bern(0.4). We observed Pex.",
+        "variable_mapping": {
+            "X": "Glent",
+            "V1": "Razz",
+            "V2": "Pex",
+            "V3": "Zurn",
+            "V4": "Melf",
+            "V5": "Crip",
+            "V6": "Flen",
+            "V7": "Tork",
+            "V8": "Bilo",
+            "Y": "Zlim"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 122,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Vank has a direct effect on Praf, Praf and Vank has a direct effect on Scud, Scud has a direct effect on Wrenk, Wrenk has a direct effect on Yobb, Yobb has a direct effect on Glim, Glim has a direct effect on Spog, and Spog has a direct effect on Klep. Vank~Bern(0.4). We observed Scud.",
+        "variable_mapping": {
+            "X": "Praf",
+            "V1": "Vank",
+            "V2": "Scud",
+            "V3": "Wrenk",
+            "V4": "Yobb",
+            "V5": "Glim",
+            "V6": "Spog",
+            "V7": "Torb",
+            "V8": "Frun",
+            "Y": "Klep"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 123,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blorn has a direct effect on Fizo, Fizo and Blorn has a direct effect on Plim, Plim has a direct effect on Quaz, Quaz has a direct effect on Skul, Skul has a direct effect on Triv, Triv has a direct effect on Yex, and Yex has a direct effect on Jext. Blorn~Bern(0.4). We observed Plim.",
+        "variable_mapping": {
+            "X": "Fizo",
+            "V1": "Blorn",
+            "V2": "Plim",
+            "V3": "Quaz",
+            "V4": "Skul",
+            "V5": "Triv",
+            "V6": "Yex",
+            "V7": "Rild",
+            "V8": "Vurn",
+            "Y": "Jext"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 124,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Splee has a direct effect on Nuv, Nuv and Splee has a direct effect on Blen, Blen has a direct effect on Druk, Druk has a direct effect on Plog, Plog has a direct effect on Skrim, Skrim has a direct effect on Zimb, and Zimb has a direct effect on Wrox. Splee~Bern(0.4). We observed Blen.",
+        "variable_mapping": {
+            "X": "Nuv",
+            "V1": "Splee",
+            "V2": "Blen",
+            "V3": "Druk",
+            "V4": "Plog",
+            "V5": "Skrim",
+            "V6": "Zimb",
+            "V7": "Yurd",
+            "V8": "Grif",
+            "Y": "Wrox"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 125,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blaf has a direct effect on Ziklo, Ziklo or Blaf has a direct effect on Trune, Trune has a direct effect on Vork, Vork has a direct effect on Sline, Sline has a direct effect on Frim, Frim has a direct effect on Qado, and Qado has a direct effect on Lumbo. Blaf~Bern(0.4). We observed Trune.",
+        "variable_mapping": {
+            "X": "Ziklo",
+            "V1": "Blaf",
+            "V2": "Trune",
+            "V3": "Vork",
+            "V4": "Sline",
+            "V5": "Frim",
+            "V6": "Qado",
+            "V7": "Jurf",
+            "V8": "Drig",
+            "Y": "Lumbo"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 126,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Razz has a direct effect on Glent, Glent or Razz has a direct effect on Pex, Pex has a direct effect on Zurn, Zurn has a direct effect on Melf, Melf has a direct effect on Crip, Crip has a direct effect on Flen, and Flen has a direct effect on Zlim. Razz~Bern(0.4). We observed Pex.",
+        "variable_mapping": {
+            "X": "Glent",
+            "V1": "Razz",
+            "V2": "Pex",
+            "V3": "Zurn",
+            "V4": "Melf",
+            "V5": "Crip",
+            "V6": "Flen",
+            "V7": "Tork",
+            "V8": "Bilo",
+            "Y": "Zlim"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 127,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Vank has a direct effect on Praf, Praf or Vank has a direct effect on Scud, Scud has a direct effect on Wrenk, Wrenk has a direct effect on Yobb, Yobb has a direct effect on Glim, Glim has a direct effect on Spog, and Spog has a direct effect on Klep. Vank~Bern(0.4). We observed Scud.",
+        "variable_mapping": {
+            "X": "Praf",
+            "V1": "Vank",
+            "V2": "Scud",
+            "V3": "Wrenk",
+            "V4": "Yobb",
+            "V5": "Glim",
+            "V6": "Spog",
+            "V7": "Torb",
+            "V8": "Frun",
+            "Y": "Klep"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 128,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blorn has a direct effect on Fizo, Fizo or Blorn has a direct effect on Plim, Plim has a direct effect on Quaz, Quaz has a direct effect on Skul, Skul has a direct effect on Triv, Triv has a direct effect on Yex, and Yex has a direct effect on Jext. Blorn~Bern(0.4). We observed Plim.",
+        "variable_mapping": {
+            "X": "Fizo",
+            "V1": "Blorn",
+            "V2": "Plim",
+            "V3": "Quaz",
+            "V4": "Skul",
+            "V5": "Triv",
+            "V6": "Yex",
+            "V7": "Rild",
+            "V8": "Vurn",
+            "Y": "Jext"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 129,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Splee has a direct effect on Nuv, Nuv or Splee has a direct effect on Blen, Blen has a direct effect on Druk, Druk has a direct effect on Plog, Plog has a direct effect on Skrim, Skrim has a direct effect on Zimb, and Zimb has a direct effect on Wrox. Splee~Bern(0.4). We observed Blen.",
+        "variable_mapping": {
+            "X": "Nuv",
+            "V1": "Splee",
+            "V2": "Blen",
+            "V3": "Druk",
+            "V4": "Plog",
+            "V5": "Skrim",
+            "V6": "Zimb",
+            "V7": "Yurd",
+            "V8": "Grif",
+            "Y": "Wrox"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 130,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blaf has a direct effect on Ziklo, Ziklo and Blaf have direct effects on Trune, Trune has a direct effect on Vork, Vork has a direct effect on Sline, Sline has a direct effect on Frim, Frim and Trune have direct effects on Qado, and Qado has a direct effect on Lumbo. Blaf~Bern(0.6). We observed Trune.",
+        "variable_mapping": {
+            "X": "Ziklo",
+            "V1": "Blaf",
+            "V2": "Trune",
+            "V3": "Vork",
+            "V4": "Sline",
+            "V5": "Frim",
+            "V6": "Qado",
+            "V7": "Jurf",
+            "V8": "Drig",
+            "Y": "Lumbo"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 131,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Razz has a direct effect on Glent, Glent and Razz have direct effects on Pex, Pex has a direct effect on Zurn, Zurn has a direct effect on Melf, Melf has a direct effect on Crip, Crip and Pex have direct effects on Flen, and Flen has a direct effect on Zlim. Razz~Bern(0.6). We observed Pex.",
+        "variable_mapping": {
+            "X": "Glent",
+            "V1": "Razz",
+            "V2": "Pex",
+            "V3": "Zurn",
+            "V4": "Melf",
+            "V5": "Crip",
+            "V6": "Flen",
+            "V7": "Tork",
+            "V8": "Bilo",
+            "Y": "Zlim"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 132,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Vank has a direct effect on Praf, Praf and Vank have direct effects on Scud, Scud has a direct effect on Wrenk, Wrenk has a direct effect on Yobb, Yobb has a direct effect on Glim, Glim and Scud have direct effects on Spog, and Spog has a direct effect on Klep. Vank~Bern(0.6). We observed Scud.",
+        "variable_mapping": {
+            "X": "Praf",
+            "V1": "Vank",
+            "V2": "Scud",
+            "V3": "Wrenk",
+            "V4": "Yobb",
+            "V5": "Glim",
+            "V6": "Spog",
+            "V7": "Torb",
+            "V8": "Frun",
+            "Y": "Klep"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 133,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blorn has a direct effect on Fizo, Fizo and Blorn have direct effects on Plim, Plim has a direct effect on Quaz, Quaz has a direct effect on Skul, Skul has a direct effect on Triv, Triv and Plim have direct effects on Yex, and Yex has a direct effect on Jext. Blorn~Bern(0.6). We observed Plim.",
+        "variable_mapping": {
+            "X": "Fizo",
+            "V1": "Blorn",
+            "V2": "Plim",
+            "V3": "Quaz",
+            "V4": "Skul",
+            "V5": "Triv",
+            "V6": "Yex",
+            "V7": "Rild",
+            "V8": "Vurn",
+            "Y": "Jext"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 134,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Splee has a direct effect on Nuv, Nuv and Splee have direct effects on Blen, Blen has a direct effect on Druk, Druk has a direct effect on Plog, Plog has a direct effect on Skrim, Skrim and Blen have direct effects on Zimb, and Zimb has a direct effect on Wrox. Splee~Bern(0.6). We observed Blen.",
+        "variable_mapping": {
+            "X": "Nuv",
+            "V1": "Splee",
+            "V2": "Blen",
+            "V3": "Druk",
+            "V4": "Plog",
+            "V5": "Skrim",
+            "V6": "Zimb",
+            "V7": "Yurd",
+            "V8": "Grif",
+            "Y": "Wrox"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 135,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blaf has a direct effect on Ziklo, Ziklo and Blaf have direct effects on Trune, Trune has a direct effect on Vork, Vork has a direct effect on Sline, Sline has a direct effect on Frim, Frim or Trune cause Qado, and Qado has a direct effect on Lumbo. Blaf~Bern(0.6). We observed Trune.",
+        "variable_mapping": {
+            "X": "Ziklo",
+            "V1": "Blaf",
+            "V2": "Trune",
+            "V3": "Vork",
+            "V4": "Sline",
+            "V5": "Frim",
+            "V6": "Qado",
+            "V7": "Jurf",
+            "V8": "Drig",
+            "Y": "Lumbo"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 136,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Razz has a direct effect on Glent, Glent and Razz have direct effects on Pex, Pex has a direct effect on Zurn, Zurn has a direct effect on Melf, Melf has a direct effect on Crip, Crip or Pex cause Flen, and Flen has a direct effect on Zlim. Razz~Bern(0.6). We observed Pex.",
+        "variable_mapping": {
+            "X": "Glent",
+            "V1": "Razz",
+            "V2": "Pex",
+            "V3": "Zurn",
+            "V4": "Melf",
+            "V5": "Crip",
+            "V6": "Flen",
+            "V7": "Tork",
+            "V8": "Bilo",
+            "Y": "Zlim"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 137,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Vank has a direct effect on Praf, Praf and Vank have direct effects on Scud, Scud has a direct effect on Wrenk, Wrenk has a direct effect on Yobb, Yobb has a direct effect on Glim, Glim or Scud cause Spog, and Spog has a direct effect on Klep. Vank~Bern(0.6). We observed Scud.",
+        "variable_mapping": {
+            "X": "Praf",
+            "V1": "Vank",
+            "V2": "Scud",
+            "V3": "Wrenk",
+            "V4": "Yobb",
+            "V5": "Glim",
+            "V6": "Spog",
+            "V7": "Torb",
+            "V8": "Frun",
+            "Y": "Klep"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 138,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blorn has a direct effect on Fizo, Fizo and Blorn have direct effects on Plim, Plim has a direct effect on Quaz, Quaz has a direct effect on Skul, Skul has a direct effect on Triv, Triv or Plim cause Yex, and Yex has a direct effect on Jext. Blorn~Bern(0.6). We observed Plim.",
+        "variable_mapping": {
+            "X": "Fizo",
+            "V1": "Blorn",
+            "V2": "Plim",
+            "V3": "Quaz",
+            "V4": "Skul",
+            "V5": "Triv",
+            "V6": "Yex",
+            "V7": "Rild",
+            "V8": "Vurn",
+            "Y": "Jext"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 139,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Splee has a direct effect on Nuv, Nuv and Splee have direct effects on Blen, Blen has a direct effect on Druk, Druk has a direct effect on Plog, Plog has a direct effect on Skrim, Skrim or Blen cause Zimb, and Zimb has a direct effect on Wrox. Splee~Bern(0.6). We observed Blen.",
+        "variable_mapping": {
+            "X": "Nuv",
+            "V1": "Splee",
+            "V2": "Blen",
+            "V3": "Druk",
+            "V4": "Plog",
+            "V5": "Skrim",
+            "V6": "Zimb",
+            "V7": "Yurd",
+            "V8": "Grif",
+            "Y": "Wrox"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 140,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blaf has a direct effect on Ziklo, Blaf and Ziklo have direct effects on Trune, Trune and Blaf have direct effects on Vork, Vork has a direct effect on Sline, Sline and Vork have direct effects on Frim, Frim has a direct effect on Qado, and Qado has a direct effect on Lumbo. Blaf~Bern(0.6). We observed Vork.",
+        "variable_mapping": {
+            "X": "Ziklo",
+            "V1": "Blaf",
+            "V2": "Trune",
+            "V3": "Vork",
+            "V4": "Sline",
+            "V5": "Frim",
+            "V6": "Qado",
+            "V7": "Jurf",
+            "V8": "Drig",
+            "Y": "Lumbo"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 141,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Razz has a direct effect on Glent, Razz and Glent have direct effects on Pex, Pex and Razz have direct effects on Zurn, Zurn has a direct effect on Melf, Melf and Zurn have direct effects on Crip, Crip has a direct effect on Flen, and Flen has a direct effect on Zlim. Razz~Bern(0.6). We observed Zurn.",
+        "variable_mapping": {
+            "X": "Glent",
+            "V1": "Razz",
+            "V2": "Pex",
+            "V3": "Zurn",
+            "V4": "Melf",
+            "V5": "Crip",
+            "V6": "Flen",
+            "V7": "Tork",
+            "V8": "Bilo",
+            "Y": "Zlim"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 142,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Vank has a direct effect on Praf, Vank and Praf have direct effects on Scud, Scud and Vank have direct effects on Wrenk, Wrenk has a direct effect on Yobb, Yobb and Wrenk have direct effects on Glim, Glim has a direct effect on Spog, and Spog has a direct effect on Klep. Vank~Bern(0.6). We observed Wrenk.",
+        "variable_mapping": {
+            "X": "Praf",
+            "V1": "Vank",
+            "V2": "Scud",
+            "V3": "Wrenk",
+            "V4": "Yobb",
+            "V5": "Glim",
+            "V6": "Spog",
+            "V7": "Torb",
+            "V8": "Frun",
+            "Y": "Klep"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 143,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blorn has a direct effect on Fizo, Blorn and Fizo have direct effects on Plim, Plim and Blorn have direct effects on Quaz, Quaz has a direct effect on Skul, Skul and Quaz have direct effects on Triv, Triv has a direct effect on Yex, and Yex has a direct effect on Jext. Blorn~Bern(0.6). We observed Quaz.",
+        "variable_mapping": {
+            "X": "Fizo",
+            "V1": "Blorn",
+            "V2": "Plim",
+            "V3": "Quaz",
+            "V4": "Skul",
+            "V5": "Triv",
+            "V6": "Yex",
+            "V7": "Rild",
+            "V8": "Vurn",
+            "Y": "Jext"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 144,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Splee has a direct effect on Nuv, Splee and Nuv have direct effects on Blen, Blen and Splee have direct effects on Druk, Druk has a direct effect on Plog, Plog and Druk have direct effects on Skrim, Skrim has a direct effect on Zimb, and Zimb has a direct effect on Wrox. Splee~Bern(0.6). We observed Druk.",
+        "variable_mapping": {
+            "X": "Nuv",
+            "V1": "Splee",
+            "V2": "Blen",
+            "V3": "Druk",
+            "V4": "Plog",
+            "V5": "Skrim",
+            "V6": "Zimb",
+            "V7": "Yurd",
+            "V8": "Grif",
+            "Y": "Wrox"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 145,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blaf has a direct effect on Ziklo, Blaf or Ziklo has a direct effect on Trune, Trune and Blaf have direct effects on Vork, Vork has a direct effect on Sline, Sline and Vork have direct effects on Frim, Frim has a direct effect on Qado, and Qado has a direct effect on Lumbo. Blaf~Bern(0.6). We observed Vork.",
+        "variable_mapping": {
+            "X": "Ziklo",
+            "V1": "Blaf",
+            "V2": "Trune",
+            "V3": "Vork",
+            "V4": "Sline",
+            "V5": "Frim",
+            "V6": "Qado",
+            "V7": "Jurf",
+            "V8": "Drig",
+            "Y": "Lumbo"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 146,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Razz has a direct effect on Glent, Razz or Glent has a direct effect on Pex, Pex and Razz have direct effects on Zurn, Zurn has a direct effect on Melf, Melf and Zurn have direct effects on Crip, Crip has a direct effect on Flen, and Flen has a direct effect on Zlim. Razz~Bern(0.6). We observed Zurn.",
+        "variable_mapping": {
+            "X": "Glent",
+            "V1": "Razz",
+            "V2": "Pex",
+            "V3": "Zurn",
+            "V4": "Melf",
+            "V5": "Crip",
+            "V6": "Flen",
+            "V7": "Tork",
+            "V8": "Bilo",
+            "Y": "Zlim"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 147,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Vank has a direct effect on Praf, Vank or Praf has a direct effect on Scud, Scud and Vank have direct effects on Wrenk, Wrenk has a direct effect on Yobb, Yobb and Wrenk have direct effects on Glim, Glim has a direct effect on Spog, and Spog has a direct effect on Klep. Vank~Bern(0.6). We observed Wrenk.",
+        "variable_mapping": {
+            "X": "Praf",
+            "V1": "Vank",
+            "V2": "Scud",
+            "V3": "Wrenk",
+            "V4": "Yobb",
+            "V5": "Glim",
+            "V6": "Spog",
+            "V7": "Torb",
+            "V8": "Frun",
+            "Y": "Klep"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 148,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blorn has a direct effect on Fizo, Blorn or Fizo has a direct effect on Plim, Plim and Blorn have direct effects on Quaz, Quaz has a direct effect on Skul, Skul and Quaz have direct effects on Triv, Triv has a direct effect on Yex, and Yex has a direct effect on Jext. Blorn~Bern(0.6). We observed Quaz.",
+        "variable_mapping": {
+            "X": "Fizo",
+            "V1": "Blorn",
+            "V2": "Plim",
+            "V3": "Quaz",
+            "V4": "Skul",
+            "V5": "Triv",
+            "V6": "Yex",
+            "V7": "Rild",
+            "V8": "Vurn",
+            "Y": "Jext"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 149,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Splee has a direct effect on Nuv, Splee or Nuv has a direct effect on Blen, Blen and Splee have direct effects on Druk, Druk has a direct effect on Plog, Plog and Druk have direct effects on Skrim, Skrim has a direct effect on Zimb, and Zimb has a direct effect on Wrox. Splee~Bern(0.6). We observed Druk.",
+        "variable_mapping": {
+            "X": "Nuv",
+            "V1": "Splee",
+            "V2": "Blen",
+            "V3": "Druk",
+            "V4": "Plog",
+            "V5": "Skrim",
+            "V6": "Zimb",
+            "V7": "Yurd",
+            "V8": "Grif",
+            "Y": "Wrox"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 150,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blaf has a direct effect on Ziklo, Ziklo has a direct effect on Trune, Trune has a direct effect on Vork, Vork and Trune have direct effects on Sline, Sline has a direct effect on Frim, Frim and Trune have direct effects on Qado, and Qado has a direct effect on Lumbo. Blaf~Bern(0.6). We observed Vork.",
+        "variable_mapping": {
+            "X": "Ziklo",
+            "V1": "Blaf",
+            "V2": "Trune",
+            "V3": "Vork",
+            "V4": "Sline",
+            "V5": "Frim",
+            "V6": "Qado",
+            "V7": "Jurf",
+            "V8": "Drig",
+            "Y": "Lumbo"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 151,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Razz has a direct effect on Glent, Glent has a direct effect on Pex, Pex has a direct effect on Zurn, Zurn and Pex have direct effects on Melf, Melf has a direct effect on Crip, Crip and Pex have direct effects on Flen, and Flen has a direct effect on Zlim. Razz~Bern(0.6). We observed Zurn.",
+        "variable_mapping": {
+            "X": "Glent",
+            "V1": "Razz",
+            "V2": "Pex",
+            "V3": "Zurn",
+            "V4": "Melf",
+            "V5": "Crip",
+            "V6": "Flen",
+            "V7": "Tork",
+            "V8": "Bilo",
+            "Y": "Zlim"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 152,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Vank has a direct effect on Praf, Praf has a direct effect on Scud, Scud has a direct effect on Wrenk, Wrenk and Scud have direct effects on Yobb, Yobb has a direct effect on Glim, Glim and Scud have direct effects on Spog, and Spog has a direct effect on Klep. Vank~Bern(0.6). We observed Wrenk.",
+        "variable_mapping": {
+            "X": "Praf",
+            "V1": "Vank",
+            "V2": "Scud",
+            "V3": "Wrenk",
+            "V4": "Yobb",
+            "V5": "Glim",
+            "V6": "Spog",
+            "V7": "Torb",
+            "V8": "Frun",
+            "Y": "Klep"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 153,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blorn has a direct effect on Fizo, Fizo has a direct effect on Plim, Plim has a direct effect on Quaz, Quaz and Plim have direct effects on Skul, Skul has a direct effect on Triv, Triv and Plim have direct effects on Yex, and Yex has a direct effect on Jext. Blorn~Bern(0.6). We observed Quaz.",
+        "variable_mapping": {
+            "X": "Fizo",
+            "V1": "Blorn",
+            "V2": "Plim",
+            "V3": "Quaz",
+            "V4": "Skul",
+            "V5": "Triv",
+            "V6": "Yex",
+            "V7": "Rild",
+            "V8": "Vurn",
+            "Y": "Jext"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 154,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Splee has a direct effect on Nuv, Nuv has a direct effect on Blen, Blen has a direct effect on Druk, Druk and Blen have direct effects on Plog, Plog has a direct effect on Skrim, Skrim and Blen have direct effects on Zimb, and Zimb has a direct effect on Wrox. Splee~Bern(0.6). We observed Druk.",
+        "variable_mapping": {
+            "X": "Nuv",
+            "V1": "Splee",
+            "V2": "Blen",
+            "V3": "Druk",
+            "V4": "Plog",
+            "V5": "Skrim",
+            "V6": "Zimb",
+            "V7": "Yurd",
+            "V8": "Grif",
+            "Y": "Wrox"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 155,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blaf has a direct effect on Ziklo, Ziklo has a direct effect on Trune, Blaf or Trune has a direct effect on Vork, Vork and Trune have direct effects on Sline, Sline has a direct effect on Frim, Frim and Ziklo have direct effects on Qado, and Qado has a direct effect on Lumbo. Blaf~Bern(0.6). We observed Vork.",
+        "variable_mapping": {
+            "X": "Ziklo",
+            "V1": "Blaf",
+            "V2": "Trune",
+            "V3": "Vork",
+            "V4": "Sline",
+            "V5": "Frim",
+            "V6": "Qado",
+            "V7": "Jurf",
+            "V8": "Drig",
+            "Y": "Lumbo"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 156,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Razz has a direct effect on Glent, Glent has a direct effect on Pex, Razz or Pex has a direct effect on Zurn, Zurn and Pex have direct effects on Melf, Melf has a direct effect on Crip, Crip and Glent have direct effects on Flen, and Flen has a direct effect on Zlim. Razz~Bern(0.6). We observed Zurn.",
+        "variable_mapping": {
+            "X": "Glent",
+            "V1": "Razz",
+            "V2": "Pex",
+            "V3": "Zurn",
+            "V4": "Melf",
+            "V5": "Crip",
+            "V6": "Flen",
+            "V7": "Tork",
+            "V8": "Bilo",
+            "Y": "Zlim"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 157,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Vank has a direct effect on Praf, Praf has a direct effect on Scud, Vank or Scud has a direct effect on Wrenk, Wrenk and Scud have direct effects on Yobb, Yobb has a direct effect on Glim, Glim and Praf have direct effects on Spog, and Spog has a direct effect on Klep. Vank~Bern(0.6). We observed Wrenk.",
+        "variable_mapping": {
+            "X": "Praf",
+            "V1": "Vank",
+            "V2": "Scud",
+            "V3": "Wrenk",
+            "V4": "Yobb",
+            "V5": "Glim",
+            "V6": "Spog",
+            "V7": "Torb",
+            "V8": "Frun",
+            "Y": "Klep"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 158,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blorn has a direct effect on Fizo, Fizo has a direct effect on Plim, Blorn or Plim has a direct effect on Quaz, Quaz and Plim have direct effects on Skul, Skul has a direct effect on Triv, Triv and Fizo have direct effects on Yex, and Yex has a direct effect on Jext. Blorn~Bern(0.6). We observed Quaz.",
+        "variable_mapping": {
+            "X": "Fizo",
+            "V1": "Blorn",
+            "V2": "Plim",
+            "V3": "Quaz",
+            "V4": "Skul",
+            "V5": "Triv",
+            "V6": "Yex",
+            "V7": "Rild",
+            "V8": "Vurn",
+            "Y": "Jext"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 159,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Splee has a direct effect on Nuv, Nuv has a direct effect on Blen, Splee or Blen has a direct effect on Druk, Druk and Blen have direct effects on Plog, Plog has a direct effect on Skrim, Skrim and Nuv have direct effects on Zimb, and Zimb has a direct effect on Wrox. Splee~Bern(0.6). We observed Druk.",
+        "variable_mapping": {
+            "X": "Nuv",
+            "V1": "Splee",
+            "V2": "Blen",
+            "V3": "Druk",
+            "V4": "Plog",
+            "V5": "Skrim",
+            "V6": "Zimb",
+            "V7": "Yurd",
+            "V8": "Grif",
+            "Y": "Wrox"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 160,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blaf has a direct effect on Ziklo, Blaf and Ziklo have direct effects on Trune, Trune and Blaf have direct effects on Vork, Vork has a direct effect on Sline, Sline and Vork have direct effects on Frim, Frim has a direct effect on Qado, Qado has a direct effect on Jurf, and Jurf has a direct effect on Lumbo. Blaf~Bern(0.4). We observed Vork.",
+        "variable_mapping": {
+            "X": "Ziklo",
+            "V1": "Blaf",
+            "V2": "Trune",
+            "V3": "Vork",
+            "V4": "Sline",
+            "V5": "Frim",
+            "V6": "Qado",
+            "V7": "Jurf",
+            "V8": "Drig",
+            "Y": "Lumbo"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 161,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Razz has a direct effect on Glent, Razz and Glent have direct effects on Pex, Pex and Razz have direct effects on Zurn, Zurn has a direct effect on Melf, Melf and Zurn have direct effects on Crip, Crip has a direct effect on Flen, Flen has a direct effect on Tork, and Tork has a direct effect on Zlim. Razz~Bern(0.4). We observed Zurn.",
+        "variable_mapping": {
+            "X": "Glent",
+            "V1": "Razz",
+            "V2": "Pex",
+            "V3": "Zurn",
+            "V4": "Melf",
+            "V5": "Crip",
+            "V6": "Flen",
+            "V7": "Tork",
+            "V8": "Bilo",
+            "Y": "Zlim"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 162,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Vank has a direct effect on Praf, Vank and Praf have direct effects on Scud, Scud and Vank have direct effects on Wrenk, Wrenk has a direct effect on Yobb, Yobb and Wrenk have direct effects on Glim, Glim has a direct effect on Spog, Spog has a direct effect on Torb, and Torb has a direct effect on Klep. Vank~Bern(0.4). We observed Wrenk.",
+        "variable_mapping": {
+            "X": "Praf",
+            "V1": "Vank",
+            "V2": "Scud",
+            "V3": "Wrenk",
+            "V4": "Yobb",
+            "V5": "Glim",
+            "V6": "Spog",
+            "V7": "Torb",
+            "V8": "Frun",
+            "Y": "Klep"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 163,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blorn has a direct effect on Fizo, Blorn and Fizo have direct effects on Plim, Plim and Blorn have direct effects on Quaz, Quaz has a direct effect on Skul, Skul and Quaz have direct effects on Triv, Triv has a direct effect on Yex, Yex has a direct effect on Rild, and Rild has a direct effect on Jext. Blorn~Bern(0.4). We observed Quaz.",
+        "variable_mapping": {
+            "X": "Fizo",
+            "V1": "Blorn",
+            "V2": "Plim",
+            "V3": "Quaz",
+            "V4": "Skul",
+            "V5": "Triv",
+            "V6": "Yex",
+            "V7": "Rild",
+            "V8": "Vurn",
+            "Y": "Jext"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 164,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Splee has a direct effect on Nuv, Splee and Nuv have direct effects on Blen, Blen and Splee have direct effects on Druk, Druk has a direct effect on Plog, Plog and Druk have direct effects on Skrim, Skrim has a direct effect on Zimb, Zimb has a direct effect on Yurd, and Yurd has a direct effect on Wrox. Splee~Bern(0.4). We observed Druk.",
+        "variable_mapping": {
+            "X": "Nuv",
+            "V1": "Splee",
+            "V2": "Blen",
+            "V3": "Druk",
+            "V4": "Plog",
+            "V5": "Skrim",
+            "V6": "Zimb",
+            "V7": "Yurd",
+            "V8": "Grif",
+            "Y": "Wrox"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 165,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blaf has a direct effect on Ziklo, Blaf or Ziklo has a direct effect on Trune, Trune and Blaf have direct effects on Vork, Vork has a direct effect on Sline, Sline and Vork have direct effects on Frim, Frim has a direct effect on Qado, Qado has a direct effect on Jurf, and Jurf has a direct effect on Lumbo. Blaf~Bern(0.4). We observed Vork.",
+        "variable_mapping": {
+            "X": "Ziklo",
+            "V1": "Blaf",
+            "V2": "Trune",
+            "V3": "Vork",
+            "V4": "Sline",
+            "V5": "Frim",
+            "V6": "Qado",
+            "V7": "Jurf",
+            "V8": "Drig",
+            "Y": "Lumbo"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 166,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Razz has a direct effect on Glent, Razz or Glent has a direct effect on Pex, Pex and Razz have direct effects on Zurn, Zurn has a direct effect on Melf, Melf and Zurn have direct effects on Crip, Crip has a direct effect on Flen, Flen has a direct effect on Tork, and Tork has a direct effect on Zlim. Razz~Bern(0.4). We observed Zurn.",
+        "variable_mapping": {
+            "X": "Glent",
+            "V1": "Razz",
+            "V2": "Pex",
+            "V3": "Zurn",
+            "V4": "Melf",
+            "V5": "Crip",
+            "V6": "Flen",
+            "V7": "Tork",
+            "V8": "Bilo",
+            "Y": "Zlim"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 167,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Vank has a direct effect on Praf, Vank or Praf has a direct effect on Scud, Scud and Vank have direct effects on Wrenk, Wrenk has a direct effect on Yobb, Yobb and Wrenk have direct effects on Glim, Glim has a direct effect on Spog, Spog has a direct effect on Torb, and Torb has a direct effect on Klep. Vank~Bern(0.4). We observed Wrenk.",
+        "variable_mapping": {
+            "X": "Praf",
+            "V1": "Vank",
+            "V2": "Scud",
+            "V3": "Wrenk",
+            "V4": "Yobb",
+            "V5": "Glim",
+            "V6": "Spog",
+            "V7": "Torb",
+            "V8": "Frun",
+            "Y": "Klep"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 168,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blorn has a direct effect on Fizo, Blorn or Fizo has a direct effect on Plim, Plim and Blorn have direct effects on Quaz, Quaz has a direct effect on Skul, Skul and Quaz have direct effects on Triv, Triv has a direct effect on Yex, Yex has a direct effect on Rild, and Rild has a direct effect on Jext. Blorn~Bern(0.4). We observed Quaz.",
+        "variable_mapping": {
+            "X": "Fizo",
+            "V1": "Blorn",
+            "V2": "Plim",
+            "V3": "Quaz",
+            "V4": "Skul",
+            "V5": "Triv",
+            "V6": "Yex",
+            "V7": "Rild",
+            "V8": "Vurn",
+            "Y": "Jext"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 169,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Splee has a direct effect on Nuv, Splee or Nuv has a direct effect on Blen, Blen and Splee have direct effects on Druk, Druk has a direct effect on Plog, Plog and Druk have direct effects on Skrim, Skrim has a direct effect on Zimb, Zimb has a direct effect on Yurd, and Yurd has a direct effect on Wrox. Splee~Bern(0.4). We observed Druk.",
+        "variable_mapping": {
+            "X": "Nuv",
+            "V1": "Splee",
+            "V2": "Blen",
+            "V3": "Druk",
+            "V4": "Plog",
+            "V5": "Skrim",
+            "V6": "Zimb",
+            "V7": "Yurd",
+            "V8": "Grif",
+            "Y": "Wrox"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 170,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Trune has a direct effect on not Blaf, Blaf has a direct effect on Ziklo, Trune and not Blaf have direct effects on Vork, Vork has a direct effect on Sline, Sline has a direct effect on Frim, Frim has a direct effect on Qado, Qado has a direct effect on Jurf, and Jurf has a direct effect on Lumbo. Trune~Bern(0.4). We observed Blaf.",
+        "variable_mapping": {
+            "X": "Ziklo",
+            "V1": "Blaf",
+            "V2": "Trune",
+            "V3": "Vork",
+            "V4": "Sline",
+            "V5": "Frim",
+            "V6": "Qado",
+            "V7": "Jurf",
+            "V8": "Drig",
+            "Y": "Lumbo"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 171,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Pex has a direct effect on not Razz, Razz has a direct effect on Glent, Pex and not Razz have direct effects on Zurn, Zurn has a direct effect on Melf, Melf has a direct effect on Crip, Crip has a direct effect on Flen, Flen has a direct effect on Tork, and Tork has a direct effect on Zlim. Pex~Bern(0.4). We observed Razz.",
+        "variable_mapping": {
+            "X": "Glent",
+            "V1": "Razz",
+            "V2": "Pex",
+            "V3": "Zurn",
+            "V4": "Melf",
+            "V5": "Crip",
+            "V6": "Flen",
+            "V7": "Tork",
+            "V8": "Bilo",
+            "Y": "Zlim"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 172,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Scud has a direct effect on not Vank, Vank has a direct effect on Praf, Scud and not Vank have direct effects on Wrenk, Wrenk has a direct effect on Yobb, Yobb has a direct effect on Glim, Glim has a direct effect on Spog, Spog has a direct effect on Torb, and Torb has a direct effect on Klep. Scud~Bern(0.4). We observed Vank.",
+        "variable_mapping": {
+            "X": "Praf",
+            "V1": "Vank",
+            "V2": "Scud",
+            "V3": "Wrenk",
+            "V4": "Yobb",
+            "V5": "Glim",
+            "V6": "Spog",
+            "V7": "Torb",
+            "V8": "Frun",
+            "Y": "Klep"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 173,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Plim has a direct effect on not Blorn, Blorn has a direct effect on Fizo, Plim and not Blorn have direct effects on Quaz, Quaz has a direct effect on Skul, Skul has a direct effect on Triv, Triv has a direct effect on Yex, Yex has a direct effect on Rild, and Rild has a direct effect on Jext. Plim~Bern(0.4). We observed Blorn.",
+        "variable_mapping": {
+            "X": "Fizo",
+            "V1": "Blorn",
+            "V2": "Plim",
+            "V3": "Quaz",
+            "V4": "Skul",
+            "V5": "Triv",
+            "V6": "Yex",
+            "V7": "Rild",
+            "V8": "Vurn",
+            "Y": "Jext"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 174,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blen has a direct effect on not Splee, Splee has a direct effect on Nuv, Blen and not Splee have direct effects on Druk, Druk has a direct effect on Plog, Plog has a direct effect on Skrim, Skrim has a direct effect on Zimb, Zimb has a direct effect on Yurd, and Yurd has a direct effect on Wrox. Blen~Bern(0.4). We observed Splee.",
+        "variable_mapping": {
+            "X": "Nuv",
+            "V1": "Splee",
+            "V2": "Blen",
+            "V3": "Druk",
+            "V4": "Plog",
+            "V5": "Skrim",
+            "V6": "Zimb",
+            "V7": "Yurd",
+            "V8": "Grif",
+            "Y": "Wrox"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 175,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Trune has a direct effect on Blaf, Blaf has a direct effect on Ziklo, Trune or Ziklo has a direct effect on Vork, Vork has a direct effect on Sline, Sline has a direct effect on Frim, Frim has a direct effect on Qado, Qado has a direct effect on Jurf, and Jurf has a direct effect on Lumbo. Trune~Bern(0.4). We observed Blaf.",
+        "variable_mapping": {
+            "X": "Ziklo",
+            "V1": "Blaf",
+            "V2": "Trune",
+            "V3": "Vork",
+            "V4": "Sline",
+            "V5": "Frim",
+            "V6": "Qado",
+            "V7": "Jurf",
+            "V8": "Drig",
+            "Y": "Lumbo"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 176,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Pex has a direct effect on Razz, Razz has a direct effect on Glent, Pex or Glent has a direct effect on Zurn, Zurn has a direct effect on Melf, Melf has a direct effect on Crip, Crip has a direct effect on Flen, Flen has a direct effect on Tork, and Tork has a direct effect on Zlim. Pex~Bern(0.4). We observed Razz.",
+        "variable_mapping": {
+            "X": "Glent",
+            "V1": "Razz",
+            "V2": "Pex",
+            "V3": "Zurn",
+            "V4": "Melf",
+            "V5": "Crip",
+            "V6": "Flen",
+            "V7": "Tork",
+            "V8": "Bilo",
+            "Y": "Zlim"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 177,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Scud has a direct effect on Vank, Vank has a direct effect on Praf, Scud or Praf has a direct effect on Wrenk, Wrenk has a direct effect on Yobb, Yobb has a direct effect on Glim, Glim has a direct effect on Spog, Spog has a direct effect on Torb, and Torb has a direct effect on Klep. Scud~Bern(0.4). We observed Vank.",
+        "variable_mapping": {
+            "X": "Praf",
+            "V1": "Vank",
+            "V2": "Scud",
+            "V3": "Wrenk",
+            "V4": "Yobb",
+            "V5": "Glim",
+            "V6": "Spog",
+            "V7": "Torb",
+            "V8": "Frun",
+            "Y": "Klep"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 178,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Plim has a direct effect on Blorn, Blorn has a direct effect on Fizo, Plim or Fizo has a direct effect on Quaz, Quaz has a direct effect on Skul, Skul has a direct effect on Triv, Triv has a direct effect on Yex, Yex has a direct effect on Rild, and Rild has a direct effect on Jext. Plim~Bern(0.4). We observed Blorn.",
+        "variable_mapping": {
+            "X": "Fizo",
+            "V1": "Blorn",
+            "V2": "Plim",
+            "V3": "Quaz",
+            "V4": "Skul",
+            "V5": "Triv",
+            "V6": "Yex",
+            "V7": "Rild",
+            "V8": "Vurn",
+            "Y": "Jext"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 179,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blen has a direct effect on Splee, Splee has a direct effect on Nuv, Blen or Nuv has a direct effect on Druk, Druk has a direct effect on Plog, Plog has a direct effect on Skrim, Skrim has a direct effect on Zimb, Zimb has a direct effect on Yurd, and Yurd has a direct effect on Wrox. Blen~Bern(0.4). We observed Splee.",
+        "variable_mapping": {
+            "X": "Nuv",
+            "V1": "Splee",
+            "V2": "Blen",
+            "V3": "Druk",
+            "V4": "Plog",
+            "V5": "Skrim",
+            "V6": "Zimb",
+            "V7": "Yurd",
+            "V8": "Grif",
+            "Y": "Wrox"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 180,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blaf has a direct effect on Ziklo, Ziklo or Blaf has a direct effect on Trune, Trune has a direct effect on Vork, Vork and Trune have direct effects on Sline, Sline has a direct effect on Frim, Frim has a direct effect on Qado, Qado and Frim have direct effects on Jurf, and Jurf has a direct effect on Lumbo. Blaf~Bern(0.6). We observed Blaf.",
+        "variable_mapping": {
+            "X": "Ziklo",
+            "V1": "Blaf",
+            "V2": "Trune",
+            "V3": "Vork",
+            "V4": "Sline",
+            "V5": "Frim",
+            "V6": "Qado",
+            "V7": "Jurf",
+            "V8": "Drig",
+            "Y": "Lumbo"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 181,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Razz has a direct effect on Glent, Glent or Razz has a direct effect on Pex, Pex has a direct effect on Zurn, Zurn and Pex have direct effects on Melf, Melf has a direct effect on Crip, Crip has a direct effect on Flen, Flen and Crip have direct effects on Tork, and Tork has a direct effect on Zlim. Razz~Bern(0.6). We observed Razz.",
+        "variable_mapping": {
+            "X": "Glent",
+            "V1": "Razz",
+            "V2": "Pex",
+            "V3": "Zurn",
+            "V4": "Melf",
+            "V5": "Crip",
+            "V6": "Flen",
+            "V7": "Tork",
+            "V8": "Bilo",
+            "Y": "Zlim"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 182,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Vank has a direct effect on Praf, Praf or Vank has a direct effect on Scud, Scud has a direct effect on Wrenk, Wrenk and Scud have direct effects on Yobb, Yobb has a direct effect on Glim, Glim has a direct effect on Spog, Spog and Glim have direct effects on Torb, and Torb has a direct effect on Klep. Vank~Bern(0.6). We observed Vank.",
+        "variable_mapping": {
+            "X": "Praf",
+            "V1": "Vank",
+            "V2": "Scud",
+            "V3": "Wrenk",
+            "V4": "Yobb",
+            "V5": "Glim",
+            "V6": "Spog",
+            "V7": "Torb",
+            "V8": "Frun",
+            "Y": "Klep"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 183,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blorn has a direct effect on Fizo, Fizo or Blorn has a direct effect on Plim, Plim has a direct effect on Quaz, Quaz and Plim have direct effects on Skul, Skul has a direct effect on Triv, Triv has a direct effect on Yex, Yex and Triv have direct effects on Rild, and Rild has a direct effect on Jext. Blorn~Bern(0.6). We observed Blorn.",
+        "variable_mapping": {
+            "X": "Fizo",
+            "V1": "Blorn",
+            "V2": "Plim",
+            "V3": "Quaz",
+            "V4": "Skul",
+            "V5": "Triv",
+            "V6": "Yex",
+            "V7": "Rild",
+            "V8": "Vurn",
+            "Y": "Jext"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 184,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Splee has a direct effect on Nuv, Nuv or Splee has a direct effect on Blen, Blen has a direct effect on Druk, Druk and Blen have direct effects on Plog, Plog has a direct effect on Skrim, Skrim has a direct effect on Zimb, Zimb and Skrim have direct effects on Yurd, and Yurd has a direct effect on Wrox. Splee~Bern(0.6). We observed Splee.",
+        "variable_mapping": {
+            "X": "Nuv",
+            "V1": "Splee",
+            "V2": "Blen",
+            "V3": "Druk",
+            "V4": "Plog",
+            "V5": "Skrim",
+            "V6": "Zimb",
+            "V7": "Yurd",
+            "V8": "Grif",
+            "Y": "Wrox"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 185,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blaf has a direct effect on Ziklo, Ziklo and Blaf has a direct effect on Trune, Trune has a direct effect on Vork, Vork and Trune have direct effects on Sline, Sline has a direct effect on Frim, Frim has a direct effect on Qado, Qado and Frim have direct effects on Jurf, and Jurf has a direct effect on Lumbo. Blaf~Bern(0.6). We observed Blaf.",
+        "variable_mapping": {
+            "X": "Ziklo",
+            "V1": "Blaf",
+            "V2": "Trune",
+            "V3": "Vork",
+            "V4": "Sline",
+            "V5": "Frim",
+            "V6": "Qado",
+            "V7": "Jurf",
+            "V8": "Drig",
+            "Y": "Lumbo"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 186,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Razz has a direct effect on Glent, Glent and Razz has a direct effect on Pex, Pex has a direct effect on Zurn, Zurn and Pex have direct effects on Melf, Melf has a direct effect on Crip, Crip has a direct effect on Flen, Flen and Crip have direct effects on Tork, and Tork has a direct effect on Zlim. Razz~Bern(0.6). We observed Razz.",
+        "variable_mapping": {
+            "X": "Glent",
+            "V1": "Razz",
+            "V2": "Pex",
+            "V3": "Zurn",
+            "V4": "Melf",
+            "V5": "Crip",
+            "V6": "Flen",
+            "V7": "Tork",
+            "V8": "Bilo",
+            "Y": "Zlim"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 187,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Vank has a direct effect on Praf, Praf and Vank has a direct effect on Scud, Scud has a direct effect on Wrenk, Wrenk and Scud have direct effects on Yobb, Yobb has a direct effect on Glim, Glim has a direct effect on Spog, Spog and Glim have direct effects on Torb, and Torb has a direct effect on Klep. Vank~Bern(0.6). We observed Vank.",
+        "variable_mapping": {
+            "X": "Praf",
+            "V1": "Vank",
+            "V2": "Scud",
+            "V3": "Wrenk",
+            "V4": "Yobb",
+            "V5": "Glim",
+            "V6": "Spog",
+            "V7": "Torb",
+            "V8": "Frun",
+            "Y": "Klep"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 188,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blorn has a direct effect on Fizo, Fizo and Blorn has a direct effect on Plim, Plim has a direct effect on Quaz, Quaz and Plim have direct effects on Skul, Skul has a direct effect on Triv, Triv has a direct effect on Yex, Yex and Triv have direct effects on Rild, and Rild has a direct effect on Jext. Blorn~Bern(0.6). We observed Blorn.",
+        "variable_mapping": {
+            "X": "Fizo",
+            "V1": "Blorn",
+            "V2": "Plim",
+            "V3": "Quaz",
+            "V4": "Skul",
+            "V5": "Triv",
+            "V6": "Yex",
+            "V7": "Rild",
+            "V8": "Vurn",
+            "Y": "Jext"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 189,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Splee has a direct effect on Nuv, Nuv and Splee has a direct effect on Blen, Blen has a direct effect on Druk, Druk and Blen have direct effects on Plog, Plog has a direct effect on Skrim, Skrim has a direct effect on Zimb, Zimb and Skrim have direct effects on Yurd, and Yurd has a direct effect on Wrox. Splee~Bern(0.6). We observed Splee.",
+        "variable_mapping": {
+            "X": "Nuv",
+            "V1": "Splee",
+            "V2": "Blen",
+            "V3": "Druk",
+            "V4": "Plog",
+            "V5": "Skrim",
+            "V6": "Zimb",
+            "V7": "Yurd",
+            "V8": "Grif",
+            "Y": "Wrox"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 190,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blaf has a direct effect on Ziklo, Blaf has a direct effect on Trune, Trune and Ziklo have direct effects on Vork, Vork has a direct effect on Sline, Sline and Trune have direct effects on Frim, Frim has a direct effect on Qado, Qado has a direct effect on Jurf, and Jurf has a direct effect on Lumbo. Blaf~Bern(0.6). We observed Blaf.",
+        "variable_mapping": {
+            "X": "Ziklo",
+            "V1": "Blaf",
+            "V2": "Trune",
+            "V3": "Vork",
+            "V4": "Sline",
+            "V5": "Frim",
+            "V6": "Qado",
+            "V7": "Jurf",
+            "V8": "Drig",
+            "Y": "Lumbo"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 191,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Razz has a direct effect on Glent, Razz has a direct effect on Pex, Pex and Glent have direct effects on Zurn, Zurn has a direct effect on Melf, Melf and Pex have direct effects on Crip, Crip has a direct effect on Flen, Flen has a direct effect on Tork, and Tork has a direct effect on Zlim. Razz~Bern(0.6). We observed Razz.",
+        "variable_mapping": {
+            "X": "Glent",
+            "V1": "Razz",
+            "V2": "Pex",
+            "V3": "Zurn",
+            "V4": "Melf",
+            "V5": "Crip",
+            "V6": "Flen",
+            "V7": "Tork",
+            "V8": "Bilo",
+            "Y": "Zlim"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 192,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Vank has a direct effect on Praf, Vank has a direct effect on Scud, Scud and Praf have direct effects on Wrenk, Wrenk has a direct effect on Yobb, Yobb and Scud have direct effects on Glim, Glim has a direct effect on Spog, Spog has a direct effect on Torb, and Torb has a direct effect on Klep. Vank~Bern(0.6). We observed Vank.",
+        "variable_mapping": {
+            "X": "Praf",
+            "V1": "Vank",
+            "V2": "Scud",
+            "V3": "Wrenk",
+            "V4": "Yobb",
+            "V5": "Glim",
+            "V6": "Spog",
+            "V7": "Torb",
+            "V8": "Frun",
+            "Y": "Klep"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 193,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blorn has a direct effect on Fizo, Blorn has a direct effect on Plim, Plim and Fizo have direct effects on Quaz, Quaz has a direct effect on Skul, Skul and Plim have direct effects on Triv, Triv has a direct effect on Yex, Yex has a direct effect on Rild, and Rild has a direct effect on Jext. Blorn~Bern(0.6). We observed Blorn.",
+        "variable_mapping": {
+            "X": "Fizo",
+            "V1": "Blorn",
+            "V2": "Plim",
+            "V3": "Quaz",
+            "V4": "Skul",
+            "V5": "Triv",
+            "V6": "Yex",
+            "V7": "Rild",
+            "V8": "Vurn",
+            "Y": "Jext"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 194,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Splee has a direct effect on Nuv, Splee has a direct effect on Blen, Blen and Nuv have direct effects on Druk, Druk has a direct effect on Plog, Plog and Blen have direct effects on Skrim, Skrim has a direct effect on Zimb, Zimb has a direct effect on Yurd, and Yurd has a direct effect on Wrox. Splee~Bern(0.6). We observed Splee.",
+        "variable_mapping": {
+            "X": "Nuv",
+            "V1": "Splee",
+            "V2": "Blen",
+            "V3": "Druk",
+            "V4": "Plog",
+            "V5": "Skrim",
+            "V6": "Zimb",
+            "V7": "Yurd",
+            "V8": "Grif",
+            "Y": "Wrox"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 195,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blaf has a direct effect on Ziklo, Blaf has a direct effect on Trune, Trune or Ziklo has a direct effect on Vork, Vork has a direct effect on Sline, Sline and Trune have direct effects on Frim, Frim has a direct effect on Qado, Qado has a direct effect on Jurf, and Jurf has a direct effect on Lumbo. Blaf~Bern(0.6). We observed Blaf.",
+        "variable_mapping": {
+            "X": "Ziklo",
+            "V1": "Blaf",
+            "V2": "Trune",
+            "V3": "Vork",
+            "V4": "Sline",
+            "V5": "Frim",
+            "V6": "Qado",
+            "V7": "Jurf",
+            "V8": "Drig",
+            "Y": "Lumbo"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 196,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Razz has a direct effect on Glent, Razz has a direct effect on Pex, Pex or Glent has a direct effect on Zurn, Zurn has a direct effect on Melf, Melf and Pex have direct effects on Crip, Crip has a direct effect on Flen, Flen has a direct effect on Tork, and Tork has a direct effect on Zlim. Razz~Bern(0.6). We observed Razz.",
+        "variable_mapping": {
+            "X": "Glent",
+            "V1": "Razz",
+            "V2": "Pex",
+            "V3": "Zurn",
+            "V4": "Melf",
+            "V5": "Crip",
+            "V6": "Flen",
+            "V7": "Tork",
+            "V8": "Bilo",
+            "Y": "Zlim"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 197,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Vank has a direct effect on Praf, Vank has a direct effect on Scud, Scud or Praf has a direct effect on Wrenk, Wrenk has a direct effect on Yobb, Yobb and Scud have direct effects on Glim, Glim has a direct effect on Spog, Spog has a direct effect on Torb, and Torb has a direct effect on Klep. Vank~Bern(0.6). We observed Vank.",
+        "variable_mapping": {
+            "X": "Praf",
+            "V1": "Vank",
+            "V2": "Scud",
+            "V3": "Wrenk",
+            "V4": "Yobb",
+            "V5": "Glim",
+            "V6": "Spog",
+            "V7": "Torb",
+            "V8": "Frun",
+            "Y": "Klep"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 198,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Blorn has a direct effect on Fizo, Blorn has a direct effect on Plim, Plim or Fizo has a direct effect on Quaz, Quaz has a direct effect on Skul, Skul and Plim have direct effects on Triv, Triv has a direct effect on Yex, Yex has a direct effect on Rild, and Rild has a direct effect on Jext. Blorn~Bern(0.6). We observed Blorn.",
+        "variable_mapping": {
+            "X": "Fizo",
+            "V1": "Blorn",
+            "V2": "Plim",
+            "V3": "Quaz",
+            "V4": "Skul",
+            "V5": "Triv",
+            "V6": "Yex",
+            "V7": "Rild",
+            "V8": "Vurn",
+            "Y": "Jext"
+        },
+        "nonsense": true
+    },
+    {
+        "model_id": 199,
+        "background": "Imagine a self-contained, hypothetical world with only the following conditions, and without any unmentioned factors or causal relationships: Splee has a direct effect on Nuv, Splee has a direct effect on Blen, Blen or Nuv has a direct effect on Druk, Druk has a direct effect on Plog, Plog and Blen have direct effects on Skrim, Skrim has a direct effect on Zimb, Zimb has a direct effect on Yurd, and Yurd has a direct effect on Wrox. Splee~Bern(0.6). We observed Splee.",
+        "variable_mapping": {
+            "X": "Nuv",
+            "V1": "Splee",
+            "V2": "Blen",
+            "V3": "Druk",
+            "V4": "Plog",
+            "V5": "Skrim",
+            "V6": "Zimb",
+            "V7": "Yurd",
+            "V8": "Grif",
+            "Y": "Wrox"
+        },
+        "nonsense": true
+    }
+]
