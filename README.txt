@@ -27,7 +27,7 @@ submission/
 --------------------------------------------------------------------------------
 2. SYSTEM ARCHITECTURE & COMPLIANCE
 --------------------------------------------------------------------------------
-In strict compliance with Assignment Rules 1 through 6:
+In strict compliance with Assignment Rules:
 - "The objective is to build a general-purpose reasoning system, not a system
   specifically designed for the released dataset."
 - "The private test dataset must not be used during development."
@@ -56,7 +56,7 @@ decision-making or inference loop.
      Failure (NAF).
 
 3. Conjunctive Normal Form (CNF) Clauses:
-   - General clauses L_1 \/ L_2 \/ ... \/ L_k for First-Order and Propositional
+   - General clauses L_1 v L_2 v ... v L_k for First-Order and Propositional
      Resolution Refutation Theorem Proving.
 
 4. Structural Causal Equations (SCMs):
@@ -135,6 +135,4 @@ To run the complete system and reproduce all results:
 4. To recompile report.pdf from Typst source (optional):
     python -c "import typst; typst.compile('submission/report.typ', output='submission/report.pdf')"
 
-================================================================================
-END OF README.txt
 ================================================================================
